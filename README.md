@@ -1,7 +1,7 @@
 # [RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model](https://arxiv.org/abs/2504.04988) 
 
-> 👨‍💻 **Authors**: [Congcong Wen](https://wencc.xyz)†, Yiting Lin†, Xiaokang Qu, Nan Li, Yong Liao, Hui Lin, Xiang Li  
-> <sup>*</sup> Equal Contribution &nbsp;&nbsp;&nbsp; <sup>†</sup> Corresponding Author.
+> 👨‍💻 **Authors**: [Congcong Wen*](https://wencc.xyz), Yiting Lin*, Xiaokang Qu, Nan Li, Yong Liao, Hui Lin, Xiang Li  
+> <sup>*</sup> Equal Contribution.
 
 > 📄 **Journal**: *IEEE Geoscience and Remote Sensing Magazine (GRSM)*, Under review.
 
