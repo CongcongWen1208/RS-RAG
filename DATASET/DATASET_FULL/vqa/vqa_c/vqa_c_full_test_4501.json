@@ -1,7 +1,8 @@
 [
   {
-    "image_name": "Pontigny Abbey",
-    "gpt_output": [
+    "ID": "010091",
+    "Name": "Pontigny Abbey",
+    "qa_pairs": [
       {
         "question": "Is this area likely to have significant vegetation coverage?",
         "answer": "The NDVI value is 0.13, which indicates low vegetation coverage."
@@ -65,8 +66,9 @@
     ]
   },
   {
-    "image_name": "Magnificent Mile",
-    "gpt_output": [
+    "ID": "007540",
+    "Name": "Magnificent Mile",
+    "qa_pairs": [
       {
         "question": "What is the surface energy balance implication of the current albedo value?",
         "answer": "The albedo value of 0.12 indicates a relatively low reflectance, suggesting that a significant portion of incoming solar radiation is absorbed, leading to warmer surface conditions."
@@ -130,8 +132,9 @@
     ]
   },
   {
-    "image_name": "Sof Omar Caves",
-    "gpt_output": [
+    "ID": "011810",
+    "Name": "Sof Omar Caves",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the region based on vegetation indices?",
         "answer": "The ecological status suggests sparse vegetation, indicated by an NDVI of 0.1, which is relatively low."
@@ -195,8 +198,9 @@
     ]
   },
   {
-    "image_name": "Seattle Public Library",
-    "gpt_output": [
+    "ID": "011356",
+    "Name": "Seattle Public Library",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on vegetation indices?",
         "answer": "The NDVI is 0.01, indicating very sparse vegetation cover, suggesting a poor ecological status in terms of vegetation."
@@ -260,8 +264,9 @@
     ]
   },
   {
-    "image_name": "Arlington National Cemetery",
-    "gpt_output": [
+    "ID": "000653",
+    "Name": "Arlington National Cemetery",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy exploitation based on the albedo values?",
         "answer": "The potential for solar energy exploitation is moderate, with an overall albedo of 0.14 indicating average reflectivity. Higher values in ALBNIRDR (0.24) suggest moderate absorption of near-infrared sunlight."
@@ -325,8 +330,9 @@
     ]
   },
   {
-    "image_name": "Château de Rambouillet",
-    "gpt_output": [
+    "ID": "002695",
+    "Name": "Château de Rambouillet",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.11, indicating low vegetation activity and potentially degraded ecological conditions."
@@ -390,8 +396,9 @@
     ]
   },
   {
-    "image_name": "Château de Caen",
-    "gpt_output": [
+    "ID": "002615",
+    "Name": "Château de Caen",
+    "qa_pairs": [
       {
         "question": "What are the implications of the low normalized difference vegetation index (NDVI) for ecological status in this area?",
         "answer": "The low NDVI value of 0.15 suggests limited vegetation health or sparse vegetation presence, which might indicate stressed ecological conditions."
@@ -455,8 +462,9 @@
     ]
   },
   {
-    "image_name": "Castillo de San Marcos",
-    "gpt_output": [
+    "ID": "002146",
+    "Name": "Castillo de San Marcos",
+    "qa_pairs": [
       {
         "question": "What is the average temperature of the area during the day and night?",
         "answer": "The average day temperature is 25.0°C, and the average night temperature is 17.34°C."
@@ -520,8 +528,9 @@
     ]
   },
   {
-    "image_name": "Mount Rushmore",
-    "gpt_output": [
+    "ID": "008300",
+    "Name": "Mount Rushmore",
+    "qa_pairs": [
       {
         "question": "What does the low NDVI value indicate about the vegetation density in the area?",
         "answer": "The low NDVI value of 0.05 suggests sparse vegetation density in the area."
@@ -585,8 +594,9 @@
     ]
   },
   {
-    "image_name": "Tauride Palace",
-    "gpt_output": [
+    "ID": "012606",
+    "Name": "Tauride Palace",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the region, and what does it suggest about the surface reflectivity?",
         "answer": "The overall albedo is 0.15, indicating a relatively low surface reflectivity, typical for a mix of vegetation and urban surfaces."
@@ -642,8 +652,9 @@
     ]
   },
   {
-    "image_name": "Jacob's Well",
-    "gpt_output": [
+    "ID": "006029",
+    "Name": "Jacob's Well",
+    "qa_pairs": [
       {
         "question": "What is the estimated ecological status of the area based on vegetation indices?",
         "answer": "The ecological status appears to be low with a low NDVI value of 0.16, indicating sparse or stressed vegetation."
@@ -703,8 +714,9 @@
     ]
   },
   {
-    "image_name": "Pico Cão Grande",
-    "gpt_output": [
+    "ID": "009894",
+    "Name": "Pico Cão Grande",
+    "qa_pairs": [
       {
         "question": "What is the dominant type of land cover in the area based on classification type LC_Type1?",
         "answer": "The dominant type of land cover is Type 2."
@@ -760,8 +772,9 @@
     ]
   },
   {
-    "image_name": "Cluny Abbey",
-    "gpt_output": [
+    "ID": "002881",
+    "Name": "Cluny Abbey",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the area captured by the image?",
         "answer": "The average soil moisture level is 0.68 (GWETPROF)."
@@ -821,8 +834,9 @@
     ]
   },
   {
-    "image_name": "National Library of Greece",
-    "gpt_output": [
+    "ID": "008677",
+    "Name": "National Library of Greece",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status of the area based on NDVI values?",
         "answer": "The NDVI value is 0.08, which indicates low vegetation cover and suggests a potentially urban or barren area."
@@ -882,8 +896,9 @@
     ]
   },
   {
-    "image_name": "Koza Han",
-    "gpt_output": [
+    "ID": "006728",
+    "Name": "Koza Han",
+    "qa_pairs": [
       {
         "question": "What is the general land cover classification in the observed area?",
         "answer": "The land cover type is predominantly urban, as indicated by LC_Type1 being 13."
@@ -939,8 +954,9 @@
     ]
   },
   {
-    "image_name": "Paphos Castle",
-    "gpt_output": [
+    "ID": "009578",
+    "Name": "Paphos Castle",
+    "qa_pairs": [
       {
         "question": "What is the overall surface emissivity of the area based on the given data?",
         "answer": "The overall surface emissivity of the area is 0.96, indicating the surface is highly emissive."
@@ -1004,8 +1020,9 @@
     ]
   },
   {
-    "image_name": "Reginald's Tower",
-    "gpt_output": [
+    "ID": "010581",
+    "Name": "Reginald's Tower",
+    "qa_pairs": [
       {
         "question": "How is the surface solar radiation absorbed relative to the surface for visible and near-infrared bands?",
         "answer": "The surface absorbs more solar radiation in the near-infrared bands with direct albedo of 0.37 and 0.29 for diffuse, compared to the visible bands with direct albedo of 0.08 and 0.06 for diffuse."
@@ -1069,8 +1086,9 @@
     ]
   },
   {
-    "image_name": "Palace of the Grand Master of the Knights of Rhodes",
-    "gpt_output": [
+    "ID": "009485",
+    "Name": "Palace of the Grand Master of the Knights of Rhodes",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status represented by the image based on NDVI values?",
         "answer": "The NDVI value is 0.04, suggesting sparse vegetation cover and potentially degraded ecological status."
@@ -1130,8 +1148,9 @@
     ]
   },
   {
-    "image_name": "Pillory of Bragança",
-    "gpt_output": [
+    "ID": "009913",
+    "Name": "Pillory of Bragança",
+    "qa_pairs": [
       {
         "question": "How suitable is this area for solar energy generation?",
         "answer": "The albedo is 0.14, indicating moderate solar reflectance, thus making it moderately suitable for solar energy generation."
@@ -1195,8 +1214,9 @@
     ]
   },
   {
-    "image_name": "Château de Blandy-les-Tours",
-    "gpt_output": [
+    "ID": "002606",
+    "Name": "Château de Blandy-les-Tours",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area based on surface albedo?",
         "answer": "The potential for solar energy generation seems moderate due to the average albedo of 0.19, indicating light to moderate reflectivity, suggesting that some energy will be available for conversion."
@@ -1252,8 +1272,9 @@
     ]
   },
   {
-    "image_name": "Six Flags Hurricane Harbor Rockford",
-    "gpt_output": [
+    "ID": "011736",
+    "Name": "Six Flags Hurricane Harbor Rockford",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status based on NDVI value?",
         "answer": "The NDVI value is 0.25, indicating low vegetation density or possibly semi-arid conditions."
@@ -1317,8 +1338,9 @@
     ]
   },
   {
-    "image_name": "Geauga Lake",
-    "gpt_output": [
+    "ID": "004642",
+    "Name": "Geauga Lake",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on vegetation indices in the area?",
         "answer": "The ecological status indicates sparse vegetation with an NDVI value of 0.11 and a negative NDWI of -0.11, suggesting low plant health and water content."
@@ -1382,8 +1404,9 @@
     ]
   },
   {
-    "image_name": "Gardaland",
-    "gpt_output": [
+    "ID": "004591",
+    "Name": "Gardaland",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature range between day and night?",
         "answer": "The land surface temperature ranges from 18.35°C during the day to 9.7°C at night."
@@ -1443,8 +1466,9 @@
     ]
   },
   {
-    "image_name": "Steel Pier",
-    "gpt_output": [
+    "ID": "012157",
+    "Name": "Steel Pier",
+    "qa_pairs": [
       {
         "question": "What is the general climate classification based on albedo values?",
         "answer": "The ALBEDO value of 0.11 suggests a surface that is relatively dark, possibly indicating a region with significant vegetation or urban areas, rather than snow or desert."
@@ -1500,8 +1524,9 @@
     ]
   },
   {
-    "image_name": "Woburn Safari Park",
-    "gpt_output": [
+    "ID": "014405",
+    "Name": "Woburn Safari Park",
+    "qa_pairs": [
       {
         "question": "What type of land surface temperature variation can be observed between day and night?",
         "answer": "The land surface temperature varies with 16.69°C during the day and 5.77°C at night."
@@ -1565,8 +1590,9 @@
     ]
   },
   {
-    "image_name": "Six Flags México",
-    "gpt_output": [
+    "ID": "011738",
+    "Name": "Six Flags México",
+    "qa_pairs": [
       {
         "question": "What is the ecological status indicated by the NDVI value?",
         "answer": "The NDVI value of 0.13 suggests a low level of vegetation, potentially indicating areas with sparse vegetation or developed land."
@@ -1630,8 +1656,9 @@
     ]
   },
   {
-    "image_name": "Xplor Park",
-    "gpt_output": [
+    "ID": "014518",
+    "Name": "Xplor Park",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI values?",
         "answer": "The NDVI value of 0.29 indicates sparse vegetation cover and relatively lower ecological vitality."
@@ -1695,8 +1722,9 @@
     ]
   },
   {
-    "image_name": "Yokohama Hakkeijima Sea Paradise",
-    "gpt_output": [
+    "ID": "014602",
+    "Name": "Yokohama Hakkeijima Sea Paradise",
+    "qa_pairs": [
       {
         "question": "How would the low NDVI impact vegetation-related ecological assessments in the area?",
         "answer": "The NDVI value of 0.0 indicates a lack of vegetation, which suggests that the area is either dominated by non-vegetated surfaces like urban or barren landscapes, affecting vegetation-related ecological assessments negatively."
@@ -1760,8 +1788,9 @@
     ]
   },
   {
-    "image_name": "Wet'n'Wild Toronto",
-    "gpt_output": [
+    "ID": "014269",
+    "Name": "Wet'n'Wild Toronto",
+    "qa_pairs": [
       {
         "question": "How would you assess the ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.1, which suggests sparse vegetation or possibly urban or built-up land, indicating a low ecological status in terms of vegetation cover."
@@ -1825,8 +1854,9 @@
     ]
   },
   {
-    "image_name": "Canobie Lake Park",
-    "gpt_output": [
+    "ID": "001950",
+    "Name": "Canobie Lake Park",
+    "qa_pairs": [
       {
         "question": "What is the potential suitability of the area for solar energy generation?",
         "answer": "The relatively low albedo of 0.15 and high surface emissivity of 0.98 indicate suitable conditions for solar energy absorption."
@@ -1890,8 +1920,9 @@
     ]
   },
   {
-    "image_name": "Old Tucson Studios",
-    "gpt_output": [
+    "ID": "009298",
+    "Name": "Old Tucson Studios",
+    "qa_pairs": [
       {
         "question": "What does the low NDVI value indicate about the vegetation in the area?",
         "answer": "The NDVI value is 0.01, indicating very sparse or non-existent vegetation in the region."
@@ -1947,8 +1978,9 @@
     ]
   },
   {
-    "image_name": "SeaWorld San Antonio",
-    "gpt_output": [
+    "ID": "011346",
+    "Name": "SeaWorld San Antonio",
+    "qa_pairs": [
       {
         "question": "How would you evaluate the potential for solar energy generation in the area?",
         "answer": "The potential for solar energy generation is influenced by the Albedo value of 0.16, which is moderate, suggesting some reflection of sunlight. The Sun Azimuth Angle of 152.9° indicates the sun's position would favor solar energy capture."
@@ -2012,8 +2044,9 @@
     ]
   },
   {
-    "image_name": "Santa Monica Pier",
-    "gpt_output": [
+    "ID": "011218",
+    "Name": "Santa Monica Pier",
+    "qa_pairs": [
       {
         "question": "What is the indicative environmental condition based on the average soil moisture level?",
         "answer": "The average soil moisture level is 0.44, indicating moderate soil moisture conditions which can support vegetation growth without stress."
@@ -2077,8 +2110,9 @@
     ]
   },
   {
-    "image_name": "Oceans of Fun",
-    "gpt_output": [
+    "ID": "009195",
+    "Name": "Oceans of Fun",
+    "qa_pairs": [
       {
         "question": "What is the ecological health of the area based on vegetation indices?",
         "answer": "The ecological health appears to be poor with an NDVI of 0.19, indicating low vegetation cover."
@@ -2142,8 +2176,9 @@
     ]
   },
   {
-    "image_name": "Michigan's Adventure",
-    "gpt_output": [
+    "ID": "007973",
+    "Name": "Michigan's Adventure",
+    "qa_pairs": [
       {
         "question": "What type of landcover is predominant in the image?",
         "answer": "The landcover type is identified as 9.0, which typically corresponds to urban areas or built environments."
@@ -2207,8 +2242,9 @@
     ]
   },
   {
-    "image_name": "Upper Clements Parks",
-    "gpt_output": [
+    "ID": "013749",
+    "Name": "Upper Clements Parks",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.16, indicating a low vegetation density, suggesting a sparse or stressed ecological status."
@@ -2272,8 +2308,9 @@
     ]
   },
   {
-    "image_name": "Parc Astérix",
-    "gpt_output": [
+    "ID": "009601",
+    "Name": "Parc Astérix",
+    "qa_pairs": [
       {
         "question": "How would you assess the ecological status based on the provided NDVI value?",
         "answer": "The NDVI value of 0.15 indicates low vegetation density, suggesting sparse vegetation cover."
@@ -2337,8 +2374,9 @@
     ]
   },
   {
-    "image_name": "Conneaut Lake Park",
-    "gpt_output": [
+    "ID": "002970",
+    "Name": "Conneaut Lake Park",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on vegetation indices?",
         "answer": "The ecological status indicates moderate vegetation presence with an NDVI value of 0.25, suggesting limited vegetative coverage."
@@ -2402,8 +2440,9 @@
     ]
   },
   {
-    "image_name": "Wild Waves Theme Park",
-    "gpt_output": [
+    "ID": "014335",
+    "Name": "Wild Waves Theme Park",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy collection based on surface reflectance?",
         "answer": "The area has high NIR reflectance with ALBNIRDF at 0.18 and ALBNIRDR at 0.23, indicating potential suitability for solar energy collection."
@@ -2455,8 +2494,9 @@
     ]
   },
   {
-    "image_name": "Cedar Point Shores",
-    "gpt_output": [
+    "ID": "002243",
+    "Name": "Cedar Point Shores",
+    "qa_pairs": [
       {
         "question": "What is the surface temperature as indicated by the remote sensing data?",
         "answer": "The surface temperature is 11.14°C."
@@ -2520,8 +2560,9 @@
     ]
   },
   {
-    "image_name": "VTB Arena",
-    "gpt_output": [
+    "ID": "013789",
+    "Name": "VTB Arena",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value of 0.03 suggests a low level of vegetation, indicating poor ecological status."
@@ -2585,8 +2626,9 @@
     ]
   },
   {
-    "image_name": "Fargodome",
-    "gpt_output": [
+    "ID": "004175",
+    "Name": "Fargodome",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation based on the surface characteristics?",
         "answer": "The ALBEDO value is 0.23, indicating a moderate reflection of solar energy, which suggests average potential for solar energy generation."
@@ -2650,8 +2692,9 @@
     ]
   },
   {
-    "image_name": "Hungaroring",
-    "gpt_output": [
+    "ID": "005724",
+    "Name": "Hungaroring",
+    "qa_pairs": [
       {
         "question": "What can the Albedo value indicate about the surface heating potential?",
         "answer": "The Albedo value of 0.16 suggests that the surface absorbs a large portion of solar radiation, meaning it has a low reflectance and potentially high surface heating."
@@ -2715,12 +2758,14 @@
     ]
   },
   {
-    "image_name": "Sharjah Cricket Stadium",
+    "ID": "011507",
+    "Name": "Sharjah Cricket Stadium",
     "gpt_output": "[\n  {\n    \"question\": \"What is the general land cover type based on the classification variable LC_Type1?\",\n    \"answer\": \"The land cover type is classified as 13, which typically represents urban or built-up areas.\"\n  },\n  {\n    \"question\": \"Considering the average soil moisture profile, is the area likely to have dry or moist soil conditions?\",\n    \"answer\": \"The average soil moisture (GWETPROF) is 0.2, indicating relatively dry soil conditions.\"\n  },\n  {\n    \"question\": \"What surface temperature can be anticipated during the day according to the LST_Day_1km variable?\",\n    \"answer\": \"The land surface temperature during the day is approximately 39.63°C.\"\n  },\n  {\n    \"question\": \"Based on the mean sea level pressure, is the area experiencing high or low atmospheric pressure?\",\n    \"answer\": \"The mean sea level pressure is 100984.39Pa, which is considered moderate pressure.\"\n  },\n  {\n    \"question\": \"How suitable is the area for solar energy applications considering the albedo value?\",\n    \"answer\": \"With an albedo of 0.21, the area reflects a moderate amount of solar energy, potentially suitable for solar applications.\"\n  },\n  {\n    \"question\": \"Is there significant precipitation in the area to support water resource management?\",\n    \"answer\": \"The total precipitation is 102.48mm, suggesting moderate precipitation available for water resource management.\"\n  },\n  {\n    \"question\": \"What does the NDVI value suggest about vegetation density in the area?\",\n    \"answer\": \"An NDVI of 0.3 indicates sparse vegetation or a mix of vegetation with other land covers.\"\n  },\n  {\n    \"question\": \"Considering wind speed and direction variables, is the area conducive for wind energy generation?\",\n    \"answer\": \"With a wind speed of 4.53m/s and low eastward/northward components, the area has moderate potential for wind energy generation but requires further assessment.\"\n  },\n  {\n    \"question\": \"Based on the NDBI value, can we deduce the level of urbanization in the area?\",\n    \"answer\": \"The NDBI value of -0.12 suggests a lesser extent of urban materials compared to vegetative or natural surfaces.\"\n  },\n  {\n    \"question\": \"Are the conditions favorable for snowmelt considering the snowmelt flux variable?\",\n    \"answer\": \"The snowmelt flux is 0.0mm, indicating no snowmelt activity in the area.\"\n  },\n  {\n    \"question\": \"What does the NDWI value say about the presence of water bodies or moisture on the surface?\",\n    \"answer\": \"An NDWI of -0.28 suggests limited presence of surface water or wet conditions.\"\n  },\n  {\n    \"question\": \"Analyzing the mean 2m air temperature, is the climate warm during the observation?\",\n    \"answer\": \"The mean 2m air temperature is 25.38°C, indicating warm climate conditions.\"\n  },\n  {\n    \"question\": \"How does the surface emissivity value contribute to land surface energy balance?\",\n    \"answer\": \"A surface emissivity of 0.96 suggests high efficiency in emitting energy as radiation, affecting the land surface energy balance.\"\n  }\n]"
   },
   {
-    "image_name": "Valencia",
-    "gpt_output": [
+    "ID": "013809",
+    "Name": "Valencia",
+    "qa_pairs": [
       {
         "question": "What type of land cover is dominant in the remote sensing image?",
         "answer": "The dominant land cover type is represented by LC_Type1 with a value of 13, indicating urban fabric or settlements."
@@ -2784,8 +2829,9 @@
     ]
   },
   {
-    "image_name": "Estadio Ruca Che",
-    "gpt_output": [
+    "ID": "003993",
+    "Name": "Estadio Ruca Che",
+    "qa_pairs": [
       {
         "question": "What is the overall land surface temperature during the day?",
         "answer": "The land surface temperature during the day is 28.1°C."
@@ -2849,8 +2895,9 @@
     ]
   },
   {
-    "image_name": "T-Mobile Park",
-    "gpt_output": [
+    "ID": "012430",
+    "Name": "T-Mobile Park",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area based on the albedo values provided?",
         "answer": "The potential for solar energy generation is moderate due to the total albedo of 0.13. A lower albedo means more solar energy is absorbed than reflected."
@@ -2902,8 +2949,9 @@
     ]
   },
   {
-    "image_name": "Kensington Oval",
-    "gpt_output": [
+    "ID": "006455",
+    "Name": "Kensington Oval",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on vegetation indices?",
         "answer": "The area has a low NDVI value of 0.27, indicating sparse or degraded vegetation."
@@ -2967,8 +3015,9 @@
     ]
   },
   {
-    "image_name": "Waikato Stadium",
-    "gpt_output": [
+    "ID": "014047",
+    "Name": "Waikato Stadium",
+    "qa_pairs": [
       {
         "question": "What is the level of solar energy reflectance from the land surface?",
         "answer": "The albedo is 0.16, which is relatively low, indicating the land surface absorbs most solar radiation and reflects only a small portion."
@@ -3028,8 +3077,9 @@
     ]
   },
   {
-    "image_name": "Sabina Park",
-    "gpt_output": [
+    "ID": "010981",
+    "Name": "Sabina Park",
+    "qa_pairs": [
       {
         "question": "What is the suitability of this area for solar energy generation?",
         "answer": "The suitability is moderate due to the high Sun Azimuth Angle of 146.39° and low Albedo of 0.11, which indicates good solar absorption."
@@ -3081,8 +3131,9 @@
     ]
   },
   {
-    "image_name": "Estadio Universitario (UANL)",
-    "gpt_output": [
+    "ID": "004002",
+    "Name": "Estadio Universitario (UANL)",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature during the daytime?",
         "answer": "The land surface temperature during the daytime is 35.8°C."
@@ -3146,8 +3197,9 @@
     ]
   },
   {
-    "image_name": "Stadio Olimpico",
-    "gpt_output": [
+    "ID": "012087",
+    "Name": "Stadio Olimpico",
+    "qa_pairs": [
       {
         "question": "What is the suitability of this area for solar energy generation?",
         "answer": "The suitability for solar energy generation is moderate due to the overall albedo value of 0.16, which suggests average reflectance, indicating some potential for solar absorption, but not optimally."
@@ -3211,8 +3263,9 @@
     ]
   },
   {
-    "image_name": "Angel Stadium",
-    "gpt_output": [
+    "ID": "000470",
+    "Name": "Angel Stadium",
+    "qa_pairs": [
       {
         "question": "What is the overall surface albedo and what does it suggest about the energy absorption characteristics of the area?",
         "answer": "The overall surface albedo is 0.16, which suggests that the area has a moderate level of energy absorption, reflecting a small portion of incoming solar radiation."
@@ -3268,8 +3321,9 @@
     ]
   },
   {
-    "image_name": "Arena Civica",
-    "gpt_output": [
+    "ID": "000600",
+    "Name": "Arena Civica",
+    "qa_pairs": [
       {
         "question": "What is the overall land surface temperature during the daytime?",
         "answer": "The daytime land surface temperature is 26.38°C."
@@ -3333,8 +3387,9 @@
     ]
   },
   {
-    "image_name": "Parc Olympique Lyonnais",
-    "gpt_output": [
+    "ID": "009607",
+    "Name": "Parc Olympique Lyonnais",
+    "qa_pairs": [
       {
         "question": "Based on the surface albedo and emissivity, how would you assess the potential for solar energy generation?",
         "answer": "The surface albedo is 0.18, indicating moderate reflectivity, and the emissivity is quite high at 0.99, suggesting that the surface efficiently radiates heat. These factors combined imply a moderate potential for solar energy generation."
@@ -3382,8 +3437,9 @@
     ]
   },
   {
-    "image_name": "Estadio de La Cartuja",
-    "gpt_output": [
+    "ID": "004011",
+    "Name": "Estadio de La Cartuja",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI?",
         "answer": "The NDVI value is 0.08, indicating sparse vegetation cover, which suggests low ecological status."
@@ -3447,8 +3503,9 @@
     ]
   },
   {
-    "image_name": "Edgbaston Cricket Ground",
-    "gpt_output": [
+    "ID": "003658",
+    "Name": "Edgbaston Cricket Ground",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in this region?",
         "answer": "The average soil moisture level is 0.87."
@@ -3512,8 +3569,9 @@
     ]
   },
   {
-    "image_name": "Thomond Park",
-    "gpt_output": [
+    "ID": "012893",
+    "Name": "Thomond Park",
+    "qa_pairs": [
       {
         "question": "Is this region suitable for solar energy generation based on surface reflectance characteristics?",
         "answer": "Yes, the region is suitable for solar energy generation with relatively low visible surface albedo values (ALBVISDF: 0.05, ALBVISDR: 0.07) and a high near-infrared reflectance (ALBNIRDR: 0.39), indicating good solar absorptivity."
@@ -3557,8 +3615,9 @@
     ]
   },
   {
-    "image_name": "Estádio Couto Pereira",
-    "gpt_output": [
+    "ID": "004036",
+    "Name": "Estádio Couto Pereira",
+    "qa_pairs": [
       {
         "question": "What is the general land surface type in the area based on classification?",
         "answer": "The land surface type classification is primarily urban (Long-Term Climate Classification), indicated by LC_Type1, LC_Type2, LC_Type3, LC_Type4, and LC_Type5 values all being 13, 13.0, 10.0, 8.0, and 9.0 respectively, corresponding to urban and built-up areas."
@@ -3606,8 +3665,9 @@
     ]
   },
   {
-    "image_name": "Indira Gandhi Athletic Stadium",
-    "gpt_output": [
+    "ID": "005867",
+    "Name": "Indira Gandhi Athletic Stadium",
+    "qa_pairs": [
       {
         "question": "What is the surface albedo of the observed area and what does it indicate about energy reflection?",
         "answer": "The surface albedo is 0.14, which indicates a relatively low reflection of incoming solar energy, suggesting moderate absorption and potential warming of the land surface."
@@ -3671,8 +3731,9 @@
     ]
   },
   {
-    "image_name": "Kanpur",
-    "gpt_output": [
+    "ID": "006339",
+    "Name": "Kanpur",
+    "qa_pairs": [
       {
         "question": "How suitable is the land for solar energy production?",
         "answer": "The land shows moderate suitability for solar energy production, as the ALBEDO is 0.21, reflecting some solar radiation, and the mean 2m air temperature of 24.91°C suggests decent solar energy potential."
@@ -3736,8 +3797,9 @@
     ]
   },
   {
-    "image_name": "San Francisco City Hall",
-    "gpt_output": [
+    "ID": "011129",
+    "Name": "San Francisco City Hall",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the region, based on NDVI values?",
         "answer": "The NDVI value of 0.01 indicates very sparse vegetation, suggesting a poor ecological status."
@@ -3793,8 +3855,9 @@
     ]
   },
   {
-    "image_name": "Birmingham Town Hall",
-    "gpt_output": [
+    "ID": "001384",
+    "Name": "Birmingham Town Hall",
+    "qa_pairs": [
       {
         "question": "What is the approximate amount of precipitation in the area?",
         "answer": "The total precipitation over land is 823.29 mm."
@@ -3858,8 +3921,9 @@
     ]
   },
   {
-    "image_name": "La Défense",
-    "gpt_output": [
+    "ID": "006881",
+    "Name": "La Défense",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type indicated by the image?",
         "answer": "The general land cover type is urban, as indicated by the land cover type variable: LC_Type1 is 13."
@@ -3923,8 +3987,9 @@
     ]
   },
   {
-    "image_name": "Angra do Heroísmo City Hall",
-    "gpt_output": [
+    "ID": "000486",
+    "Name": "Angra do Heroísmo City Hall",
+    "qa_pairs": [
       {
         "question": "Is the area suitable for agricultural activity based on the NDVI value?",
         "answer": "The NDVI value is 0.07, which suggests low vegetation density, indicating unsuitability for agricultural activity."
@@ -3988,8 +4053,9 @@
     ]
   },
   {
-    "image_name": "Iowa State Capitol",
-    "gpt_output": [
+    "ID": "005912",
+    "Name": "Iowa State Capitol",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the profiled area?",
         "answer": "The average soil moisture (GWETPROF) is 0.62."
@@ -4053,8 +4119,9 @@
     ]
   },
   {
-    "image_name": "Wallasey Town Hall",
-    "gpt_output": [
+    "ID": "014074",
+    "Name": "Wallasey Town Hall",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy generation based on surface reflectance?",
         "answer": "The overall albedo is 0.15, indicating moderate reflectance which suggests potential suitability for solar energy generation."
@@ -4118,8 +4185,9 @@
     ]
   },
   {
-    "image_name": "Raghadan Palace",
-    "gpt_output": [
+    "ID": "010462",
+    "Name": "Raghadan Palace",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature during daytime, and how could this affect urban planning?",
         "answer": "The land surface temperature during daytime is 32.49°C, indicating potential heat stress, which should be considered in urban cooling strategies such as increasing green spaces."
@@ -4183,8 +4251,9 @@
     ]
   },
   {
-    "image_name": "Oregon State Capitol",
-    "gpt_output": [
+    "ID": "009352",
+    "Name": "Oregon State Capitol",
+    "qa_pairs": [
       {
         "question": "What is the potential for wind energy generation in this area?",
         "answer": "The potential for wind energy generation is moderate with a surface wind speed of 4.41 m/s."
@@ -4248,8 +4317,9 @@
     ]
   },
   {
-    "image_name": "Peterborough, Ontario",
-    "gpt_output": [
+    "ID": "009805",
+    "Name": "Peterborough, Ontario",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The potential for solar energy generation is moderate, given the ALBEDO value of 0.18 and a Sun Azimuth Angle of 158.35°, which suggest partial reflectivity but decent solar exposure."
@@ -4313,8 +4383,9 @@
     ]
   },
   {
-    "image_name": "La Fortaleza",
-    "gpt_output": [
+    "ID": "006883",
+    "Name": "La Fortaleza",
+    "qa_pairs": [
       {
         "question": "What is the dominant land cover type in this area?",
         "answer": "The dominant land cover type is 'Permanent Wetlands' as indicated by LC_Type1 and LC_Type2 being 8."
@@ -4374,8 +4445,9 @@
     ]
   },
   {
-    "image_name": "Wayne County Building",
-    "gpt_output": [
+    "ID": "014202",
+    "Name": "Wayne County Building",
+    "qa_pairs": [
       {
         "question": "What is the ecological status assessment based on the NDVI value?",
         "answer": "The NDVI value of 0.22 suggests low vegetation density, indicating potentially struggling or sparse vegetation cover."
@@ -4439,8 +4511,9 @@
     ]
   },
   {
-    "image_name": "Vancouver City Hall",
-    "gpt_output": [
+    "ID": "013838",
+    "Name": "Vancouver City Hall",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the vegetation index?",
         "answer": "The ecological status appears to be poor with an NDVI value of 0.05 indicating minimal vegetation presence in the area."
@@ -4504,8 +4577,9 @@
     ]
   },
   {
-    "image_name": "United States Public Health Service Building",
-    "gpt_output": [
+    "ID": "013366",
+    "Name": "United States Public Health Service Building",
+    "qa_pairs": [
       {
         "question": "What is the overall level of soil moisture in this area based on average soil moisture profiles?",
         "answer": "The average soil moisture profile is 0.62, indicating a moderate level of soil moisture."
@@ -4569,8 +4643,9 @@
     ]
   },
   {
-    "image_name": "Sheffield City Hall",
-    "gpt_output": [
+    "ID": "011522",
+    "Name": "Sheffield City Hall",
+    "qa_pairs": [
       {
         "question": "What is the surface temperature during the day, and how might this affect urban heat management strategies?",
         "answer": "The surface temperature during the day is 18.01°C. This moderate temperature suggests that heat management strategies might focus on reducing surface reflections and enhancing green space."
@@ -4630,8 +4705,9 @@
     ]
   },
   {
-    "image_name": "Parliament Square",
-    "gpt_output": [
+    "ID": "009651",
+    "Name": "Parliament Square",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type present in the area, and what does it indicate about the region's urbanization?",
         "answer": "The land cover type indicates a developed, medium intensity area (LC_Type1: 13), suggesting significant urbanization."
@@ -4691,8 +4767,9 @@
     ]
   },
   {
-    "image_name": "Parliament House, New Delhi",
-    "gpt_output": [
+    "ID": "009650",
+    "Name": "Parliament House, New Delhi",
+    "qa_pairs": [
       {
         "question": "What is the surface temperature recorded in the area?",
         "answer": "The surface temperature is 25.05°C."
@@ -4748,8 +4825,9 @@
     ]
   },
   {
-    "image_name": "Guildhall, London",
-    "gpt_output": [
+    "ID": "005045",
+    "Name": "Guildhall, London",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the water availability in this area from the given data?",
         "answer": "The precipitation over land is 782.75mm and the average soil moisture is fairly high at 0.73, indicating good water availability in the area."
@@ -4813,8 +4891,9 @@
     ]
   },
   {
-    "image_name": "Stornoway Town Hall",
-    "gpt_output": [
+    "ID": "012194",
+    "Name": "Stornoway Town Hall",
+    "qa_pairs": [
       {
         "question": "What is the likely ecological condition in this area based on the NDVI value?",
         "answer": "The NDVI value is 0.05, which suggests sparse or minimal vegetation, indicating a likely urban or barren land ecological condition."
@@ -4866,8 +4945,9 @@
     ]
   },
   {
-    "image_name": "Sydney Town Hall",
-    "gpt_output": [
+    "ID": "012401",
+    "Name": "Sydney Town Hall",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy production in this area?",
         "answer": "The potential for solar energy production is relatively low due to the low ALBEDO values, with a total surface albedo of 0.11, indicating less reflected sunlight."
@@ -4931,8 +5011,9 @@
     ]
   },
   {
-    "image_name": "Dakhla Oasis",
-    "gpt_output": [
+    "ID": "003205",
+    "Name": "Dakhla Oasis",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI values?",
         "answer": "The NDVI value of 0.14 suggests that the area has sparse vegetation and possibly some urban structures."
@@ -4996,8 +5077,9 @@
     ]
   },
   {
-    "image_name": "Jardin des plantes",
-    "gpt_output": [
+    "ID": "006089",
+    "Name": "Jardin des plantes",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level indicated by the variables?",
         "answer": "The average soil moisture level is 0.58."
@@ -5053,12 +5135,9 @@
     ]
   },
   {
-    "image_name": "Karađorđe's Park",
-    "gpt_output": "```json\n[\n  {\n    \"question\": \"What can be inferred about the ecological status based on the NDVI value?\",\n    \"answer\": \"The NDVI value of 0.15 indicates relatively sparse vegetation coverage, suggesting a lower ecological status in terms of vegetation density.\"\n  },\n  {\n    \"question\": \"Is this location suitable for solar energy harvesting?\",\n    \"answer\": \"The overall low albedo value of 0.16 indicates that the surface absorbs a significant portion of incoming solar radiation, making it suitable for solar energy harvesting.\"\n  },\n  {\n    \"question\": \"What type of land cover is indicated by the majority land cover classification?\",\n    \"answer\": \"The majority land cover classification, LC_Type1 with value 13, corresponds to urban and built-up areas.\"\n  },\n  {\n    \"question\": \"Based on the current surface and atmospheric conditions, can snowmelt be significant in this region?\",\n    \"answer\": \"The snowmelt flux over land is 25.94mm, which is relatively low, suggesting that snowmelt is not highly significant at this time.\"\n  },\n  {\n    \"question\": \"What is the suitability for wind energy generation in this location?\",\n    \"answer\": \"The wind speed is 5.34m/s, indicating moderate suitability for wind energy generation.\"\n  },\n  {\n    \"question\": \"How would you assess the potential water resource availability here based on the provided variables?\",\n    \"answer\": \"With a precipitation value of 689.36mm and a soil moisture level of 0.46, potential water resource availability is moderately supportive for maintaining water resources.\"\n  },\n  {\n    \"question\": \"What does the NDWI value suggest about water content in vegetation or soil?\",\n    \"answer\": \"The NDWI value of -0.15 suggests low water content in vegetation or soil, indicating dry conditions.\"\n  },\n  {\n    \"question\": \"Based on the mean 2m air temperature and LST, what can you deduce about surface heating?\",\n    \"answer\": \"The mean 2m air temperature is 12.08°C, whereas the LST_Day_1km is 23.83°C, indicating that the surface is absorbing and retaining heat during the day.\"\n  },\n  {\n    \"question\": \"Is this area likely to experience urban heat island effects?',\n    \"answer\": \"The difference between daytime and nighttime LST (23.83°C - 10.51°C) and low NDVI value suggest potential urban heat island effects due to low vegetation cover and high surface heat retention.\"\n  },\n  {\n    \"question\": \"What climatic zone could be inferred based on precipitation and temperature data?\",\n    \"answer\": \"With a mean 2m air temperature of 12.08°C and precipitation of 689.36mm, this area could be inferred to be on the cooler side of a temperate climate zone.\"\n  },\n  {\n    \"question\": \"To what extent does the surface emissivity contribute to heat retention in this area?\",\n    \"answer\": \"The surface emissivity is 0.98, indicating a high capacity for emitting energy as thermal radiation, thus contributing to efficient heat retention.\"\n  }\n]\n```"
-  },
-  {
-    "image_name": "Lake Champlain",
-    "gpt_output": [
+    "ID": "006958",
+    "Name": "Lake Champlain",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.0, indicating minimal vegetation and low ecological productivity."
@@ -5122,8 +5201,9 @@
     ]
   },
   {
-    "image_name": "Riverbanks Zoo",
-    "gpt_output": [
+    "ID": "010696",
+    "Name": "Riverbanks Zoo",
+    "qa_pairs": [
       {
         "question": "What is the overall emissivity of the surface and what does this indicate about its thermal properties?",
         "answer": "The surface emissivity is 0.99, indicating the surface has very high thermal emission capabilities, which typically corresponds to non-metallic surfaces such as vegetation."
@@ -5187,8 +5267,9 @@
     ]
   },
   {
-    "image_name": "Beihai Park",
-    "gpt_output": [
+    "ID": "001181",
+    "Name": "Beihai Park",
+    "qa_pairs": [
       {
         "question": "What is the average surface temperature during the day?",
         "answer": "The average surface temperature during the day is 21.79°C."
@@ -5252,8 +5333,9 @@
     ]
   },
   {
-    "image_name": "Fanjingshan",
-    "gpt_output": [
+    "ID": "004160",
+    "Name": "Fanjingshan",
+    "qa_pairs": [
       {
         "question": "What is the land cover type indicated by the provided variables?",
         "answer": "The land cover type is primarily urban or built-up areas, as indicated by LC_Type1, LC_Type2, LC_Type3, LC_Type4, and LC_Type5 all showing values typical for urban areas (13, 13.0, 10.0, 8.0, and 9.0)."
@@ -5309,8 +5391,9 @@
     ]
   },
   {
-    "image_name": "Tuttle Creek Lake",
-    "gpt_output": [
+    "ID": "013262",
+    "Name": "Tuttle Creek Lake",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy production in this area?",
         "answer": "With an ALBEDO of 0.21, the area has moderate reflectance, which may allow for relatively good solar energy production."
@@ -5374,8 +5457,9 @@
     ]
   },
   {
-    "image_name": "Fort Robinson",
-    "gpt_output": [
+    "ID": "004380",
+    "Name": "Fort Robinson",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy development based on surface albedo?",
         "answer": "The area's surface albedo is 0.2, indicating a moderately low surface reflectivity, which is generally suitable for solar energy development as it minimizes energy losses due to reflection."
@@ -5419,8 +5503,9 @@
     ]
   },
   {
-    "image_name": "Kenroku-en",
-    "gpt_output": [
+    "ID": "006454",
+    "Name": "Kenroku-en",
+    "qa_pairs": [
       {
         "question": "What is the ecological status as indicated by the Normalized Difference Vegetation Index (NDVI) value?",
         "answer": "The NDVI value is 0.13, which suggests low vegetation cover or stressed vegetation."
@@ -5484,8 +5569,9 @@
     ]
   },
   {
-    "image_name": "Saarschleife",
-    "gpt_output": [
+    "ID": "010973",
+    "Name": "Saarschleife",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the region based on vegetation indices?",
         "answer": "The ecological status suggests relatively low vegetation activity, with an NDVI of 0.16 indicating sparse vegetation or stressed conditions."
@@ -5549,8 +5635,9 @@
     ]
   },
   {
-    "image_name": "Central Park",
-    "gpt_output": [
+    "ID": "002273",
+    "Name": "Central Park",
+    "qa_pairs": [
       {
         "question": "What is the overall land cover type classification?",
         "answer": "The overall land cover type classifications are Type1: 13, Type2: 13.0, Type3: 10.0, Type4: 8.0, and Type5: 9.0."
@@ -5606,8 +5693,9 @@
     ]
   },
   {
-    "image_name": "Atlanta Beltline",
-    "gpt_output": [
+    "ID": "000753",
+    "Name": "Atlanta Beltline",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation health indicated by NDVI?",
         "answer": "The NDVI value of 0.09 suggests that the vegetation health is relatively poor."
@@ -5671,8 +5759,9 @@
     ]
   },
   {
-    "image_name": "Everest base camps",
-    "gpt_output": [
+    "ID": "004115",
+    "Name": "Everest base camps",
+    "qa_pairs": [
       {
         "question": "What is the general moisture level of the soil in this area?",
         "answer": "The average profile soil moisture (GWETPROF) is 0.6, indicating moderately high soil moisture."
@@ -5732,8 +5821,9 @@
     ]
   },
   {
-    "image_name": "Sherwood Forest",
-    "gpt_output": [
+    "ID": "011558",
+    "Name": "Sherwood Forest",
+    "qa_pairs": [
       {
         "question": "What is the general climate characterization based on the land surface temperature during the day and night?",
         "answer": "The climate appears to be mild with a day temperature of 14.47°C and a night temperature of 5.21°C, indicating cooler temperatures."
@@ -5793,8 +5883,9 @@
     ]
   },
   {
-    "image_name": "Champ de Mars",
-    "gpt_output": [
+    "ID": "002325",
+    "Name": "Champ de Mars",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type prevalent in this area?",
         "answer": "The land cover type is classified as category 13, which typically indicates urban areas."
@@ -5858,8 +5949,9 @@
     ]
   },
   {
-    "image_name": "Mount Wutai",
-    "gpt_output": [
+    "ID": "008318",
+    "Name": "Mount Wutai",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The solar energy potential in this area is moderate. Surface reflectance values range from 13,323.1 (SR_B1) to 19,518.85 (SR_B5), and the Sun Azimuth Angle is 158.01°, suggesting reasonable solar exposure, although the ALBEDO is low at 0.16."
@@ -5919,8 +6011,9 @@
     ]
   },
   {
-    "image_name": "Sleeping Giant (Connecticut)",
-    "gpt_output": [
+    "ID": "011770",
+    "Name": "Sleeping Giant (Connecticut)",
+    "qa_pairs": [
       {
         "question": "What is the surface emissivity value indicated for the area in this image, and how might it influence thermal analysis?",
         "answer": "The surface emissivity is 0.98, which suggests the area has high emissivity and can efficiently emit thermal radiation, important for accurate thermal analysis."
@@ -5984,8 +6077,9 @@
     ]
   },
   {
-    "image_name": "Bois de Vincennes",
-    "gpt_output": [
+    "ID": "001459",
+    "Name": "Bois de Vincennes",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the area?",
         "answer": "The average soil moisture level is 0.58."
@@ -6049,8 +6143,9 @@
     ]
   },
   {
-    "image_name": "Nara Park",
-    "gpt_output": [
+    "ID": "008609",
+    "Name": "Nara Park",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological condition of the region based on the NDVI value?",
         "answer": "The NDVI value is 0.15, indicating that the area has sparse vegetation with low photosynthetic activity, suggesting limited ecological conditions."
@@ -6114,8 +6209,9 @@
     ]
   },
   {
-    "image_name": "Storstrøm Bridge",
-    "gpt_output": [
+    "ID": "012196",
+    "Name": "Storstrøm Bridge",
+    "qa_pairs": [
       {
         "question": "What is the general land cover category in this region based on the given types?",
         "answer": "The general land cover category is Type1, coded as 17, which indicates barren or sparse vegetation."
@@ -6167,8 +6263,9 @@
     ]
   },
   {
-    "image_name": "Story Bridge",
-    "gpt_output": [
+    "ID": "012198",
+    "Name": "Story Bridge",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for harnessing solar energy based on its surface reflectance?",
         "answer": "The surface reflectance values across various spectral bands, such as SR_B5 = 19321.27 and SR_B6 = 16796.2, suggest moderate reflectance. The low albedo of 0.11 indicates suitable conditions for solar energy absorption."
@@ -6212,8 +6309,9 @@
     ]
   },
   {
-    "image_name": "Gordie Howe International Bridge",
-    "gpt_output": [
+    "ID": "004820",
+    "Name": "Gordie Howe International Bridge",
+    "qa_pairs": [
       {
         "question": "How would you assess the solar energy potential of the area?",
         "answer": "The area has an average albedo of 0.17, with a relatively low visible albedo values (ALBVISDF: 0.09, ALBVISDR: 0.11), indicating moderate solar energy potential. The Sun Azimuth Angle is 159.62°, which needs to be considered for solar panel alignment."
@@ -6277,8 +6375,9 @@
     ]
   },
   {
-    "image_name": "Eiffel Bridge, Ungheni",
-    "gpt_output": [
+    "ID": "003695",
+    "Name": "Eiffel Bridge, Ungheni",
+    "qa_pairs": [
       {
         "question": "Based on the NDVI value, what can be inferred about the vegetation density in the area?",
         "answer": "The NDVI value is 0.22, indicating a low density of vegetation, suggesting sparse or stressed vegetation cover."
@@ -6342,8 +6441,9 @@
     ]
   },
   {
-    "image_name": "Galata Bridge",
-    "gpt_output": [
+    "ID": "004550",
+    "Name": "Galata Bridge",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The potential for solar energy generation may be moderate, considering the ALBEDO value is 0.09, which indicates a relatively low reflectance of the surface."
@@ -6407,8 +6507,9 @@
     ]
   },
   {
-    "image_name": "Eads Bridge",
-    "gpt_output": [
+    "ID": "003619",
+    "Name": "Eads Bridge",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI?",
         "answer": "The NDVI value is 0.1, which suggests low vegetation density, indicating a relatively poor ecological status."
@@ -6468,8 +6569,9 @@
     ]
   },
   {
-    "image_name": "Charles Bridge",
-    "gpt_output": [
+    "ID": "002359",
+    "Name": "Charles Bridge",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status based on vegetation indices?",
         "answer": "The ecological status is likely poor, as indicated by a low NDVI of 0.04."
@@ -6525,8 +6627,9 @@
     ]
   },
   {
-    "image_name": "Alexandra Bridge (Trans-Canada)",
-    "gpt_output": [
+    "ID": "000312",
+    "Name": "Alexandra Bridge (Trans-Canada)",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature during the day in this remote sensing data?",
         "answer": "The land surface temperature during the day is 12.82°C."
@@ -6590,8 +6693,9 @@
     ]
   },
   {
-    "image_name": "Royal Gorge Bridge",
-    "gpt_output": [
+    "ID": "010851",
+    "Name": "Royal Gorge Bridge",
+    "qa_pairs": [
       {
         "question": "What is the surface emissivity, and how does it relate to the thermal properties of the land surface?",
         "answer": "The surface emissivity is 0.97, indicating the land surface is a good emitter of thermal radiation. This implies relatively high thermal radiation loss, which impacts surface temperature regulation."
@@ -6647,8 +6751,9 @@
     ]
   },
   {
-    "image_name": "Newburgh–Beacon Bridge",
-    "gpt_output": [
+    "ID": "008927",
+    "Name": "Newburgh–Beacon Bridge",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the landscape, and what does it suggest about the surface type?",
         "answer": "The overall albedo is 0.16, suggesting a surface that is not highly reflective, likely indicating non-snow covered land or water bodies."
@@ -6712,8 +6817,9 @@
     ]
   },
   {
-    "image_name": "Stan Musial Veterans Memorial Bridge",
-    "gpt_output": [
+    "ID": "012110",
+    "Name": "Stan Musial Veterans Memorial Bridge",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy harvesting based on surface reflectivity?",
         "answer": "The area has an albedo of 0.18, suggesting moderate reflectivity, which can be favorable for solar energy harvesting as it indicates a reasonable amount of sunlight absorption."
@@ -6777,8 +6883,9 @@
     ]
   },
   {
-    "image_name": "Mactan-Mandaue Bridge",
-    "gpt_output": [
+    "ID": "007506",
+    "Name": "Mactan-Mandaue Bridge",
+    "qa_pairs": [
       {
         "question": "What is the land cover type represented by LC_Type1 and its implications for ecological assessments?",
         "answer": "LC_Type1 indicates a land cover type of 13, which suggests barren or sparsely vegetated land, influencing ecological assessments by potentially indicating low vegetation density and biodiversity."
@@ -6842,8 +6949,9 @@
     ]
   },
   {
-    "image_name": "Verrazzano-Narrows Bridge",
-    "gpt_output": [
+    "ID": "013892",
+    "Name": "Verrazzano-Narrows Bridge",
+    "qa_pairs": [
       {
         "question": "What is the ecological status indicated by the normalized difference vegetation index (NDVI)?",
         "answer": "The NDVI value is -0.01, indicating very low vegetative cover, possibly barren land or built-up areas."
@@ -6907,8 +7015,9 @@
     ]
   },
   {
-    "image_name": "Mid-Hudson Bridge",
-    "gpt_output": [
+    "ID": "007975",
+    "Name": "Mid-Hudson Bridge",
+    "qa_pairs": [
       {
         "question": "What is the ecological status inferred from the provided NDVI value?",
         "answer": "The NDVI value of 0.01 suggests very sparse or minimal vegetation, indicating poor to very low vegetation density."
@@ -6972,8 +7081,9 @@
     ]
   },
   {
-    "image_name": "Chesapeake Bay Bridge",
-    "gpt_output": [
+    "ID": "002422",
+    "Name": "Chesapeake Bay Bridge",
+    "qa_pairs": [
       {
         "question": "What is the overall land use classification type according to the provided data?",
         "answer": "The overall land use classification is identified as type 17."
@@ -7037,8 +7147,9 @@
     ]
   },
   {
-    "image_name": "Nivedita Setu",
-    "gpt_output": [
+    "ID": "009006",
+    "Name": "Nivedita Setu",
+    "qa_pairs": [
       {
         "question": "What does the average soil moisture indicate about the potential for agricultural activities?",
         "answer": "The average soil moisture is 0.66, indicating moderate moisture that may support agricultural activities assuming other conditions are suitable."
@@ -7102,8 +7213,9 @@
     ]
   },
   {
-    "image_name": "Mapo Bridge",
-    "gpt_output": [
+    "ID": "007691",
+    "Name": "Mapo Bridge",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area based on the albedo values?",
         "answer": "The potential for solar energy generation is relatively high, considering the overall albedo value of 0.15, indicating moderate reflectance with more sunlight absorption."
@@ -7167,8 +7279,9 @@
     ]
   },
   {
-    "image_name": "Kintai Bridge",
-    "gpt_output": [
+    "ID": "006596",
+    "Name": "Kintai Bridge",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the land surface?",
         "answer": "The overall albedo is 0.12, indicating a relatively low reflectivity typical of urban and vegetated areas."
@@ -7224,8 +7337,9 @@
     ]
   },
   {
-    "image_name": "El Ferdan Railway Bridge",
-    "gpt_output": [
+    "ID": "003720",
+    "Name": "El Ferdan Railway Bridge",
+    "qa_pairs": [
       {
         "question": "What does the low NDVI value indicate about the vegetation in the area?",
         "answer": "The NDVI value is 0.09, suggesting sparse or unhealthy vegetation in the area."
@@ -7289,8 +7403,9 @@
     ]
   },
   {
-    "image_name": "Allenby Bridge",
-    "gpt_output": [
+    "ID": "000344",
+    "Name": "Allenby Bridge",
+    "qa_pairs": [
       {
         "question": "What is the surface albedo of the area and what can it suggest about the land cover?",
         "answer": "The surface albedo is 0.24, suggesting a mix of vegetation and urban features."
@@ -7354,8 +7469,9 @@
     ]
   },
   {
-    "image_name": "Byron Bay",
-    "gpt_output": [
+    "ID": "001809",
+    "Name": "Byron Bay",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level observed in the area and how might it affect local vegetation health?",
         "answer": "The average soil moisture level is 0.63, which indicates a moderately moist soil profile, potentially supporting vegetation growth despite the low NDVI of 0.02."
@@ -7411,8 +7527,9 @@
     ]
   },
   {
-    "image_name": "Bondi Beach",
-    "gpt_output": [
+    "ID": "001483",
+    "Name": "Bondi Beach",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.02, indicating a very sparse or non-vegetated area which suggests minimal ecological vegetation coverage."
@@ -7468,8 +7585,9 @@
     ]
   },
   {
-    "image_name": "Tamarindo, Costa Rica",
-    "gpt_output": [
+    "ID": "012523",
+    "Name": "Tamarindo, Costa Rica",
+    "qa_pairs": [
       {
         "question": "What is the vegetation cover assessment of this area?",
         "answer": "The NDVI value of 0.3 indicates moderate vegetation cover, suggesting some green biomass but not dense vegetation."
@@ -7533,8 +7651,9 @@
     ]
   },
   {
-    "image_name": "Holloways Beach, Queensland",
-    "gpt_output": [
+    "ID": "005527",
+    "Name": "Holloways Beach, Queensland",
+    "qa_pairs": [
       {
         "question": "What can the surface albedo values tell us about the energy absorption characteristics of the area?",
         "answer": "The surface albedo values, ALBEDO: 0.1, ALBNIRDF: 0.13, ALBNIRDR: 0.16, ALBVISDF: 0.06, and ALBVISDR: 0.08, indicate that the area has a relatively low albedo, suggesting it absorbs more solar energy rather than reflecting it."
@@ -7598,8 +7717,9 @@
     ]
   },
   {
-    "image_name": "Nathia Gali Beach",
-    "gpt_output": [
+    "ID": "008625",
+    "Name": "Nathia Gali Beach",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in the area based on surface reflectance values?",
         "answer": "The potential for solar energy generation is moderately high, given the surface reflectance values are relatively high: SR_B1: 13958.35, SR_B2: 14676.86, SR_B3: 15910.89, SR_B4: 16641.89."
@@ -7655,8 +7775,9 @@
     ]
   },
   {
-    "image_name": "Qualicum Beach",
-    "gpt_output": [
+    "ID": "010372",
+    "Name": "Qualicum Beach",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation given the environmental conditions?",
         "answer": "The ALBEDO value is 0.09, which indicates a low surface reflectivity and thus better solar energy absorption. The average wind speed is 3.94 m/s, which might have minimal effect on dust dispersion, thus not reducing solar panel efficiency significantly. Therefore, solar energy generation potential appears reasonable."
@@ -7720,8 +7841,9 @@
     ]
   },
   {
-    "image_name": "Laguna Beach, California",
-    "gpt_output": [
+    "ID": "006939",
+    "Name": "Laguna Beach, California",
+    "qa_pairs": [
       {
         "question": "Is the surface suitable for solar energy generation?",
         "answer": "The suitability for solar energy is moderate with an albedo of 0.16, meaning the surface reflects a moderate amount of solar radiation."
@@ -7785,8 +7907,9 @@
     ]
   },
   {
-    "image_name": "Kilkee",
-    "gpt_output": [
+    "ID": "006538",
+    "Name": "Kilkee",
+    "qa_pairs": [
       {
         "question": "What is the overall land cover type present in this area according to the classification scheme?",
         "answer": "The overall land cover type according to the scheme is Type 3, which corresponds to urban and built-up areas."
@@ -7842,8 +7965,9 @@
     ]
   },
   {
-    "image_name": "Chaguaramas, Trinidad",
-    "gpt_output": [
+    "ID": "002318",
+    "Name": "Chaguaramas, Trinidad",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the land cover type and NDVI?",
         "answer": "The NDVI value is 0.07 indicating sparse vegetation which suggests low greenness, while the land cover types (LC_Type1 and LC_Type2) both are 10, which typically represents urban and built-up land, implying more urbanized ecological status."
@@ -7907,8 +8031,9 @@
     ]
   },
   {
-    "image_name": "Štrand",
-    "gpt_output": [
+    "ID": "014812",
+    "Name": "Štrand",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type in the image based on land cover classification?",
         "answer": "The general land cover type according to the classification is 'Urban and Built-up' which is represented by a LC_Type1 value of 13."
@@ -7972,8 +8097,9 @@
     ]
   },
   {
-    "image_name": "Port Douglas",
-    "gpt_output": [
+    "ID": "010104",
+    "Name": "Port Douglas",
+    "qa_pairs": [
       {
         "question": "What is the surface albedo, and how might it influence the temperature of the land surface?",
         "answer": "The surface albedo is 0.09, indicating low reflectivity. This suggests that the land surface absorbs more solar radiation, potentially increasing the surface temperature."
@@ -8033,8 +8159,9 @@
     ]
   },
   {
-    "image_name": "Juhu beach",
-    "gpt_output": [
+    "ID": "006235",
+    "Name": "Juhu beach",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy generation?",
         "answer": "With an albedo of 0.15 and high surface emissivity (0.97), solar energy potential is moderate, allowing absorption of solar radiation efficiently."
@@ -8090,8 +8217,9 @@
     ]
   },
   {
-    "image_name": "Norderney",
-    "gpt_output": [
+    "ID": "009030",
+    "Name": "Norderney",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.04, indicating low vegetation density typical of urban or built-up areas."
@@ -8155,8 +8283,9 @@
     ]
   },
   {
-    "image_name": "Sittwe",
-    "gpt_output": [
+    "ID": "011721",
+    "Name": "Sittwe",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the given vegetation indices?",
         "answer": "The ecological status appears to be low in vegetation cover, as indicated by an NDVI of -0.04, suggesting a lack of dense or healthy vegetation."
@@ -8216,8 +8345,9 @@
     ]
   },
   {
-    "image_name": "Umtentweni",
-    "gpt_output": [
+    "ID": "013345",
+    "Name": "Umtentweni",
+    "qa_pairs": [
       {
         "question": "Is the area suitable for solar energy generation based on surface albedo?",
         "answer": "The area has a surface albedo of 0.12, which is relatively low, indicating it could absorb more sunlight and is potentially suitable for solar energy generation."
@@ -8277,8 +8407,9 @@
     ]
   },
   {
-    "image_name": "Punta del Este",
-    "gpt_output": [
+    "ID": "010292",
+    "Name": "Punta del Este",
+    "qa_pairs": [
       {
         "question": "How would you assess the potential for solar energy generation in this area?",
         "answer": "The area's low albedo values, particularly in the visible spectrum (ALBVISDF: 0.05, ALBVISDR: 0.06), suggest high solar absorption, which is favorable for solar energy generation."
@@ -8322,8 +8453,9 @@
     ]
   },
   {
-    "image_name": "Ramsgate Beach",
-    "gpt_output": [
+    "ID": "010505",
+    "Name": "Ramsgate Beach",
+    "qa_pairs": [
       {
         "question": "What is the ecological status indicated by the NDVI value?",
         "answer": "The NDVI value of 0.07 suggests sparse vegetation or possibly urban or bare surfaces, indicating low ecological activity."
@@ -8387,8 +8519,9 @@
     ]
   },
   {
-    "image_name": "Paraty",
-    "gpt_output": [
+    "ID": "009600",
+    "Name": "Paraty",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy potential based on albedo values?",
         "answer": "The area has a low overall albedo of 0.11, indicating a relatively dark surface, which is generally suitable for solar energy absorption."
@@ -8444,8 +8577,9 @@
     ]
   },
   {
-    "image_name": "Coolum Beach, Queensland",
-    "gpt_output": [
+    "ID": "002986",
+    "Name": "Coolum Beach, Queensland",
+    "qa_pairs": [
       {
         "question": "What is the average land surface temperature during the daytime based on remote sensing data?",
         "answer": "The average land surface temperature during the daytime is 25.53°C."
@@ -8509,8 +8643,9 @@
     ]
   },
   {
-    "image_name": "Rasht",
-    "gpt_output": [
+    "ID": "010532",
+    "Name": "Rasht",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation indices?",
         "answer": "The ecological status appears to be sparse based on an NDVI of 0.05, indicating low vegetation density."
@@ -8574,8 +8709,9 @@
     ]
   },
   {
-    "image_name": "Odawa Casino Resort",
-    "gpt_output": [
+    "ID": "009201",
+    "Name": "Odawa Casino Resort",
+    "qa_pairs": [
       {
         "question": "What can the surface albedo values tell us about the land cover surface in the image?",
         "answer": "The surface albedo values, such as ALBEDO (0.17), suggest a combination of both vegetative and non-vegetative surfaces, indicating areas with mixed land cover types."
@@ -8631,8 +8767,9 @@
     ]
   },
   {
-    "image_name": "Crown Perth",
-    "gpt_output": [
+    "ID": "003117",
+    "Name": "Crown Perth",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature during daytime and how might it affect ecological processes?",
         "answer": "The land surface temperature during daytime is 25.89°C. This temperature can influence ecological processes such as photosynthesis and respiration rates, potentially affecting plant growth and local biodiversity."
@@ -8688,8 +8825,9 @@
     ]
   },
   {
-    "image_name": "Harrah's Reno",
-    "gpt_output": [
+    "ID": "005260",
+    "Name": "Harrah's Reno",
+    "qa_pairs": [
       {
         "question": "What is the potential for wind energy generation in this area based on wind speed variables?",
         "answer": "The wind speed is 4.13m/s, suggesting moderate potential for wind energy generation."
@@ -8753,8 +8891,9 @@
     ]
   },
   {
-    "image_name": "City of Dreams Manila",
-    "gpt_output": [
+    "ID": "002796",
+    "Name": "City of Dreams Manila",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status from the NDVI value?",
         "answer": "The NDVI value of 0.04 suggests barren land or an area with sparse vegetation."
@@ -8818,8 +8957,9 @@
     ]
   },
   {
-    "image_name": "Wynn Las Vegas",
-    "gpt_output": [
+    "ID": "014481",
+    "Name": "Wynn Las Vegas",
+    "qa_pairs": [
       {
         "question": "Based on the surface temperature values, is the area likely experiencing high thermal energy emission?",
         "answer": "Yes, with a surface emissivity of 0.96 and a day land surface temperature of 36.42°C, the area likely exhibits high thermal energy emission."
@@ -8883,8 +9023,9 @@
     ]
   },
   {
-    "image_name": "Harrah's Las Vegas",
-    "gpt_output": [
+    "ID": "005253",
+    "Name": "Harrah's Las Vegas",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on NDVI values?",
         "answer": "The NDVI value is 0.02, indicating very sparse vegetation or potentially urban areas."
@@ -8928,8 +9069,9 @@
     ]
   },
   {
-    "image_name": "Golden Nugget Atlantic City",
-    "gpt_output": [
+    "ID": "004794",
+    "Name": "Golden Nugget Atlantic City",
+    "qa_pairs": [
       {
         "question": "What is the ecological status indicated by the NDVI?",
         "answer": "The NDVI value is 0.16, suggesting sparse vegetation and a low level of ecological health."
@@ -8993,8 +9135,9 @@
     ]
   },
   {
-    "image_name": "The Mirage",
-    "gpt_output": [
+    "ID": "012809",
+    "Name": "The Mirage",
+    "qa_pairs": [
       {
         "question": "What is the general land cover classification derived from the image?",
         "answer": "The land cover classification according to LC_Type1 and LC_Type2 is classified as '11' which typically corresponds to urban or built-up areas."
@@ -9054,8 +9197,9 @@
     ]
   },
   {
-    "image_name": "Dunes (hotel and casino)",
-    "gpt_output": [
+    "ID": "003572",
+    "Name": "Dunes (hotel and casino)",
+    "qa_pairs": [
       {
         "question": "What does the land surface emissivity indicate about thermal properties?",
         "answer": "The surface emissivity of 0.96 suggests high thermal radiance, typical for urban or built-up surfaces efficiently emitting heat."
@@ -9111,8 +9255,9 @@
     ]
   },
   {
-    "image_name": "Bally's Lake Tahoe",
-    "gpt_output": [
+    "ID": "000937",
+    "Name": "Bally's Lake Tahoe",
+    "qa_pairs": [
       {
         "question": "How can the ecological status of the area be characterized based on NDVI values?",
         "answer": "The ecological status indicates poor vegetative health, as the NDVI value is 0.01, suggesting sparse green vegetation."
@@ -9176,8 +9321,9 @@
     ]
   },
   {
-    "image_name": "Ormsby House",
-    "gpt_output": [
+    "ID": "009369",
+    "Name": "Ormsby House",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status in this area?",
         "answer": "The ecological status appears to be poor, as indicated by the NDVI value of 0.12, suggesting limited vegetation."
@@ -9241,8 +9387,9 @@
     ]
   },
   {
-    "image_name": "Pechanga Resort and Casino",
-    "gpt_output": [
+    "ID": "009738",
+    "Name": "Pechanga Resort and Casino",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of this region, and how does it impact solar energy potential?",
         "answer": "The overall albedo is 0.15, indicating moderate reflectivity. Lower albedo suggests better solar energy absorption potential, which is beneficial for solar energy installations."
@@ -9306,8 +9453,9 @@
     ]
   },
   {
-    "image_name": "Jackpot Junction Casino Hotel",
-    "gpt_output": [
+    "ID": "006022",
+    "Name": "Jackpot Junction Casino Hotel",
+    "qa_pairs": [
       {
         "question": "What is the ecological condition of the area observed in the image?",
         "answer": "The ecological condition is likely poor as indicated by the low NDVI value of 0.06."
@@ -9371,8 +9519,9 @@
     ]
   },
   {
-    "image_name": "Ellis Island Casino & Brewery",
-    "gpt_output": [
+    "ID": "003769",
+    "Name": "Ellis Island Casino & Brewery",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "With an albedo of 0.22 and a surface temperature of 36.29°C during the day, the area is likely suitable for solar energy generation due to high insolation and low reflection."
@@ -9436,8 +9585,9 @@
     ]
   },
   {
-    "image_name": "Bad Oeynhausen",
-    "gpt_output": [
+    "ID": "000872",
+    "Name": "Bad Oeynhausen",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level indicated by the remote sensing data?",
         "answer": "The average soil moisture level, as represented by GWETPROF, is 0.52."
@@ -9501,8 +9651,9 @@
     ]
   },
   {
-    "image_name": "Desert Inn",
-    "gpt_output": [
+    "ID": "003342",
+    "Name": "Desert Inn",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.04, indicating sparse or very little vegetation, suggesting an area with low ecological status in terms of vegetation cover."
@@ -9566,8 +9717,9 @@
     ]
   },
   {
-    "image_name": "Saratoga Casino and Raceway",
-    "gpt_output": [
+    "ID": "011247",
+    "Name": "Saratoga Casino and Raceway",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on NDVI?",
         "answer": "The NDVI value is 0.11, which suggests sparse vegetation and possibly urban or barren land characteristics in the area."
@@ -9631,8 +9783,9 @@
     ]
   },
   {
-    "image_name": "Las Vegas Club",
-    "gpt_output": [
+    "ID": "007056",
+    "Name": "Las Vegas Club",
+    "qa_pairs": [
       {
         "question": "Considering the land surface temperature during the day, what can be said about heat retention?",
         "answer": "The land surface temperature during the day is 36.43°C, indicating high heat retention."
@@ -9696,8 +9849,9 @@
     ]
   },
   {
-    "image_name": "Nevada Landing Hotel and Casino",
-    "gpt_output": [
+    "ID": "008877",
+    "Name": "Nevada Landing Hotel and Casino",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status indicated by the NDVI value?",
         "answer": "The NDVI value of 0.07 suggests minimal vegetation cover, indicating low ecological vitality in the area."
@@ -9761,8 +9915,9 @@
     ]
   },
   {
-    "image_name": "Kansas Star Casino",
-    "gpt_output": [
+    "ID": "006345",
+    "Name": "Kansas Star Casino",
+    "qa_pairs": [
       {
         "question": "How would you assess the urban development level based on the surface reflectance and land cover variables?",
         "answer": "The combination of low NDVI (0.05), high NDBI (0.0), and land cover type (LC_Type1: 10) indicates a high degree of urban development."
@@ -9818,8 +9973,9 @@
     ]
   },
   {
-    "image_name": "Bengaluru Palace",
-    "gpt_output": [
+    "ID": "001259",
+    "Name": "Bengaluru Palace",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status of the area based on NDVI value?",
         "answer": "The ecological status is moderate with an NDVI of 0.22, indicating some vegetation presence."
@@ -9879,8 +10035,9 @@
     ]
   },
   {
-    "image_name": "Château Haut-Brion",
-    "gpt_output": [
+    "ID": "002579",
+    "Name": "Château Haut-Brion",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the NDVI?",
         "answer": "The ecological status of the area appears poor, as indicated by a low NDVI of 0.06, suggesting sparse vegetation."
@@ -9944,8 +10101,9 @@
     ]
   },
   {
-    "image_name": "Prince Gong's Mansion",
-    "gpt_output": [
+    "ID": "010214",
+    "Name": "Prince Gong's Mansion",
+    "qa_pairs": [
       {
         "question": "What is the dominant land cover type in this area?",
         "answer": "The dominant land cover type is classified as type 13 according to the LC_Type1 attribute."
@@ -10009,8 +10167,9 @@
     ]
   },
   {
-    "image_name": "Rusland Hall",
-    "gpt_output": [
+    "ID": "010927",
+    "Name": "Rusland Hall",
+    "qa_pairs": [
       {
         "question": "What is the level of greenery in the area based on the image?",
         "answer": "The NDVI value of 0.17 indicates a low level of greenery in the area."
@@ -10074,8 +10233,9 @@
     ]
   },
   {
-    "image_name": "Rowan Oak",
-    "gpt_output": [
+    "ID": "010824",
+    "Name": "Rowan Oak",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.16, indicating sparse vegetation or urban regions with low ecological productivity."
@@ -10139,8 +10299,9 @@
     ]
   },
   {
-    "image_name": "Fawley Court",
-    "gpt_output": [
+    "ID": "004195",
+    "Name": "Fawley Court",
+    "qa_pairs": [
       {
         "question": "What is the mean air temperature at 2 meters above the surface, and how might it affect ecological status?",
         "answer": "The mean 2m air temperature is 10.17°C. This moderate temperature is suitable for temperate ecological conditions, potentially supporting a mix of vegetative growth typical in temperate climates."
@@ -10204,8 +10365,9 @@
     ]
   },
   {
-    "image_name": "Bulstrode Park",
-    "gpt_output": [
+    "ID": "001750",
+    "Name": "Bulstrode Park",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The potential for solar energy generation is moderate, considering the ALBEDO value of 0.19 which suggests that some of the solar radiation is reflected, while the sun azimuth angle (SAA) is 161.6° which indicates favorable sun positioning."
@@ -10261,8 +10423,9 @@
     ]
   },
   {
-    "image_name": "Dorchester House",
-    "gpt_output": [
+    "ID": "003474",
+    "Name": "Dorchester House",
+    "qa_pairs": [
       {
         "question": "What is the ecological health status indicated by the vegetation indices?",
         "answer": "The ecological health appears to be poor with NDVI of 0.02 and NDWI of -0.03, indicating low vegetation cover and potential water scarcity."
@@ -10326,8 +10489,9 @@
     ]
   },
   {
-    "image_name": "Olana State Historic Site",
-    "gpt_output": [
+    "ID": "009243",
+    "Name": "Olana State Historic Site",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the observed land area, and what does it imply about the surface type?",
         "answer": "The overall albedo is 0.17, indicating a surface that absorbs more sunlight than it reflects, typical of vegetated or soil-heavy areas."
@@ -10391,8 +10555,9 @@
     ]
   },
   {
-    "image_name": "Royal Lodge",
-    "gpt_output": [
+    "ID": "010855",
+    "Name": "Royal Lodge",
+    "qa_pairs": [
       {
         "question": "What is the potential of this area for solar energy harvesting?",
         "answer": "The overall surface reflectance in visible and near-infrared bands, with ALBEDO at 0.18, indicates moderate reflection which is moderately suitable for solar energy generation."
@@ -10436,8 +10601,9 @@
     ]
   },
   {
-    "image_name": "Nether Lypiatt Manor",
-    "gpt_output": [
+    "ID": "008869",
+    "Name": "Nether Lypiatt Manor",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status based on vegetation indices?",
         "answer": "The ecological status seems to be moderately poor as indicated by an NDVI of 0.17, suggesting sparse vegetation or unhealthy vegetation cover."
@@ -10493,8 +10659,9 @@
     ]
   },
   {
-    "image_name": "Patterson Mansion",
-    "gpt_output": [
+    "ID": "009706",
+    "Name": "Patterson Mansion",
+    "qa_pairs": [
       {
         "question": "What is the ecological status as indicated by vegetation indices in this image?",
         "answer": "The ecological status appears to be poor due to the low NDVI of 0.04, indicating sparse or non-existent vegetation."
@@ -10558,8 +10725,9 @@
     ]
   },
   {
-    "image_name": "Reading Blue Coat School",
-    "gpt_output": [
+    "ID": "010550",
+    "Name": "Reading Blue Coat School",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the area as indicated by remote sensing data?",
         "answer": "The average soil moisture level is represented by GWETPROF, which is 0.75."
@@ -10615,8 +10783,9 @@
     ]
   },
   {
-    "image_name": "Sherborne Castle",
-    "gpt_output": [
+    "ID": "011551",
+    "Name": "Sherborne Castle",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status based on the NDVI value?",
         "answer": "The NDVI value of 0.25 suggests sparse or low vegetation, indicating a potentially poor ecological status in terms of vegetation density."
@@ -10672,8 +10841,9 @@
     ]
   },
   {
-    "image_name": "Woodlea",
-    "gpt_output": [
+    "ID": "014424",
+    "Name": "Woodlea",
+    "qa_pairs": [
       {
         "question": "What is the level of urbanization in the area based on the NDBI value?",
         "answer": "The NDBI value is -0.14, indicating low urbanization as it is negative, which is typically associated with non-urban areas."
@@ -10737,8 +10907,9 @@
     ]
   },
   {
-    "image_name": "Victoria Mansion",
-    "gpt_output": [
+    "ID": "013910",
+    "Name": "Victoria Mansion",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type in the image based on the available classification data?",
         "answer": "The primary land cover type is 'LC_Type1', which corresponds to type 13 according to the provided data."
@@ -10802,8 +10973,9 @@
     ]
   },
   {
-    "image_name": "Château de Compiègne",
-    "gpt_output": [
+    "ID": "002643",
+    "Name": "Château de Compiègne",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation indices?",
         "answer": "The NDVI value is 0.08, which indicates low vegetation health or sparse vegetation cover."
@@ -10859,8 +11031,9 @@
     ]
   },
   {
-    "image_name": "Mobberley Old Hall",
-    "gpt_output": [
+    "ID": "008092",
+    "Name": "Mobberley Old Hall",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation indices?",
         "answer": "The ecological status appears low as indicated by NDVI value of 0.12, suggesting sparse vegetation cover."
@@ -10908,8 +11081,9 @@
     ]
   },
   {
-    "image_name": "Chandos House",
-    "gpt_output": [
+    "ID": "002334",
+    "Name": "Chandos House",
+    "qa_pairs": [
       {
         "question": "What is the likelihood of vegetation stress in this area given the available data?",
         "answer": "The likelihood of vegetation stress is high as indicated by low NDVI (0.03) and average soil moisture (0.73)."
@@ -10973,8 +11147,9 @@
     ]
   },
   {
-    "image_name": "Al-Faw Palace",
-    "gpt_output": [
+    "ID": "000247",
+    "Name": "Al-Faw Palace",
+    "qa_pairs": [
       {
         "question": "What is the general climate condition based on land surface temperature and precipitation?",
         "answer": "The land surface temperature is 37.27°C during the day and 22.12°C at night with total precipitation of 156.48mm, suggesting a warm and moderately wet climate."
@@ -11038,8 +11213,9 @@
     ]
   },
   {
-    "image_name": "LeVeque Tower",
-    "gpt_output": [
+    "ID": "007096",
+    "Name": "LeVeque Tower",
+    "qa_pairs": [
       {
         "question": "What is the status of vegetation health in the area based on NDVI?",
         "answer": "The NDVI value is 0.04, indicating sparse or unhealthy vegetation."
@@ -11103,8 +11279,9 @@
     ]
   },
   {
-    "image_name": "Olympic Stadium (Montreal)",
-    "gpt_output": [
+    "ID": "009313",
+    "Name": "Olympic Stadium (Montreal)",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area in terms of vegetation density?",
         "answer": "The NDVI value is 0.0, indicating minimal to no vegetation density in the area."
@@ -11168,8 +11345,9 @@
     ]
   },
   {
-    "image_name": "Balbriggan",
-    "gpt_output": [
+    "ID": "000918",
+    "Name": "Balbriggan",
+    "qa_pairs": [
       {
         "question": "What is the overall land surface temperature during the day?",
         "answer": "The land surface temperature during the day is 11.21°C."
@@ -11233,8 +11411,9 @@
     ]
   },
   {
-    "image_name": "Memphis Pyramid",
-    "gpt_output": [
+    "ID": "007907",
+    "Name": "Memphis Pyramid",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type based on the input variables?",
         "answer": "The land cover type based on LC_Type1 to LC_Type5 is primarily developed land, as indicated by the values being 13, 13.0, 10.0, 8.0, and 9.0."
@@ -11298,8 +11477,9 @@
     ]
   },
   {
-    "image_name": "Space Needle",
-    "gpt_output": [
+    "ID": "011891",
+    "Name": "Space Needle",
+    "qa_pairs": [
       {
         "question": "How effective is the surface in absorbing sunlight based on its albedo characteristics?",
         "answer": "The surface has a low overall albedo of 0.13, indicating it effectively absorbs sunlight."
@@ -11363,8 +11543,9 @@
     ]
   },
   {
-    "image_name": "Blackpool Tower",
-    "gpt_output": [
+    "ID": "001407",
+    "Name": "Blackpool Tower",
+    "qa_pairs": [
       {
         "question": "What is the general level of soil moisture in the region?",
         "answer": "The average profile soil moisture (GWETPROF) is high at 0.87, suggesting the region has moist soil."
@@ -11416,8 +11597,9 @@
     ]
   },
   {
-    "image_name": "Peace Tower",
-    "gpt_output": [
+    "ID": "009727",
+    "Name": "Peace Tower",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status from the NDVI value?",
         "answer": "The NDVI value is 0.03, indicating very low vegetation cover, which suggests limited ecological activity or vegetation density in the area."
@@ -11477,8 +11659,9 @@
     ]
   },
   {
-    "image_name": "U2 Tower",
-    "gpt_output": [
+    "ID": "013296",
+    "Name": "U2 Tower",
+    "qa_pairs": [
       {
         "question": "What is the surface emissivity, and how does it impact the local energy balance?",
         "answer": "The surface emissivity is 0.99, indicating most thermal radiation emitted is absorbed, which could lead to a higher local thermal energy retention."
@@ -11542,8 +11725,9 @@
     ]
   },
   {
-    "image_name": "Smeaton's Tower",
-    "gpt_output": [
+    "ID": "011785",
+    "Name": "Smeaton's Tower",
+    "qa_pairs": [
       {
         "question": "What is the typical land cover type in this region based on land classification variables?",
         "answer": "The typical land cover type, based on the available classification, is 'Urban and Built-Up Land'."
@@ -11607,8 +11791,9 @@
     ]
   },
   {
-    "image_name": "Portland Observatory",
-    "gpt_output": [
+    "ID": "010133",
+    "Name": "Portland Observatory",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the area, and does it indicate any potential for agricultural activities?",
         "answer": "The average soil moisture level is 0.6, which may not be sufficient for intensive agricultural activities without irrigation support."
@@ -11664,8 +11849,9 @@
     ]
   },
   {
-    "image_name": "Burj Khalifa",
-    "gpt_output": [
+    "ID": "001769",
+    "Name": "Burj Khalifa",
+    "qa_pairs": [
       {
         "question": "What is the current ecological health of the land, based on NDVI values?",
         "answer": "The NDVI value of 0.05 indicates low vegetation density, suggesting poor ecological health."
@@ -11721,8 +11907,9 @@
     ]
   },
   {
-    "image_name": "Świnoujście Lighthouse",
-    "gpt_output": [
+    "ID": "014800",
+    "Name": "Świnoujście Lighthouse",
+    "qa_pairs": [
       {
         "question": "What is the general climate condition according to the land surface temperature?",
         "answer": "The daytime land surface temperature is 15.18°C and nighttime temperature is 6.77°C, indicating a mild climate condition."
@@ -11786,12 +11973,9 @@
     ]
   },
   {
-    "image_name": "Spire of Dublin",
-    "gpt_output": "```json\n[\n  {\n    \"question\": \"What is the suitability of this area for solar energy utilization based on albedo measurements?\",\n    \"answer\": \"The suitability for solar energy is quite low due to a relatively low albedo of 0.15, suggesting that the surface absorbs more sunlight.\"\n  },\n  {\n    \"question\": \"How can the ecological status of this area be assessed using NDVI values?\",\n    \"answer\": \"The NDVI value is 0.06, which indicates minimal vegetation presence and poor ecological health in the area.\"\n  },\n  {\n    \"question\": \"Can this area be considered suitable for urbanization based on land cover types?\",\n    \"answer\": \"Yes, the area is suitable for urbanization with a land cover type classification of 13, indicating urban and built-up areas.\"\n  },\n  {\n    \"question\": \"What does the average profile soil moisture value indicate about potential agricultural activity?\",\n    \"answer\": \"The average profile soil moisture of 0.89 suggests high soil moisture content, which is beneficial for agricultural activities.\"\n  },\n  {\n    \"question\": \"How would you analyze wind energy potential in this area using surface wind speed data?\",\n    \"answer\": \"With an eastward wind speed of 3.15 m/s and northward wind speed of 2.02 m/s, the surface wind speed is 8.7 m/s, indicating moderate potential for wind energy.\"\n  },\n  {\n    \"question\": \"Evaluate climate risk for infrastructure in this area using surface pressure data.\",\n    \"answer\": \"Surface pressure is 100790.52 Pa, which is standard, indicating low immediate climate risk for infrastructure.\"\n  },\n  {\n    \"question\": \"Consider water resource estimation using snowmelt flux data. How much contribution is expected?\",\n    \"answer\": \"With a snowmelt flux over land of 4.35 mm, there is minimal contribution to water resources from snowmelt.\",\n  },\n  {\n    \"question\": \"What does the NDWI value tell you about water features in this area?\",\n    \"answer\": \"The NDWI value of -0.06 indicates low levels or absence of water features in the area.\"\n  },\n  {\n    \"question\": \"Is there an indication of industrial activity based on NDBI values?\",\n    \"answer\": \"The NDBI value of -0.06 indicates low or absent built-up and industrial activities.\",\n  },\n  {\n    \"question\": \"How does surface emissivity affect thermal analysis of this region?\",\n    \"answer\": \"A surface emissivity of 0.99 implies that the surface emits most absorbed heat effectively, maintaining relatively lower surface temperature.\",\n  },\n  {\n    \"question\": \"What insights can be drawn about nighttime conditions based on Land Surface Temperature values?\",\n    \"answer\": \"Nighttime land surface temperature of 5.94°C is cool, indicating substantial diurnal temperature variation.\"\n  },\n  {\n    \"question\": \"Analyze the atmospheric pressure variation by comparing mean sea level pressure and surface pressure values.\",\n    \"answer\": \"Mean sea level pressure is 101392.56 Pa and surface pressure is 100790.52 Pa, showing typical atmospheric pressure variation with altitude.\"\n  },\n  {\n    \"question\": \"Assess the regional climate profile using mean 2m air temperature data.\",\n    \"answer\": \"Mean 2m air temperature is 9.61°C, suggesting a temperate climate in the region.\"\n  }\n]\n```"
-  },
-  {
-    "image_name": "Trbovlje Power Station",
-    "gpt_output": [
+    "ID": "013142",
+    "Name": "Trbovlje Power Station",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.11, indicating low vegetation presence or health, possibly due to sparse vegetation or non-vegetated surfaces."
@@ -11855,8 +12039,9 @@
     ]
   },
   {
-    "image_name": "Fernsehturm Stuttgart",
-    "gpt_output": [
+    "ID": "004239",
+    "Name": "Fernsehturm Stuttgart",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on the NDVI value?",
         "answer": "The ecological status appears to be low based on the NDVI value of 0.08, indicating sparse vegetation coverage or degraded vegetation conditions."
@@ -11920,8 +12105,9 @@
     ]
   },
   {
-    "image_name": "Ping An International Finance Centre",
-    "gpt_output": [
+    "ID": "009928",
+    "Name": "Ping An International Finance Centre",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI values?",
         "answer": "The NDVI value is 0.06, which suggests low vegetation or sparse plant cover, indicating a potentially urban or barren area."
@@ -11985,8 +12171,9 @@
     ]
   },
   {
-    "image_name": "Clock Tower, Hong Kong",
-    "gpt_output": [
+    "ID": "002862",
+    "Name": "Clock Tower, Hong Kong",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type of the area based on the given classification?",
         "answer": "The general land cover type in the area can be classified as open water and urban areas, with LC Type1 being 16."
@@ -12050,8 +12237,9 @@
     ]
   },
   {
-    "image_name": "Florida Citrus Tower",
-    "gpt_output": [
+    "ID": "004326",
+    "Name": "Florida Citrus Tower",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI?",
         "answer": "The NDVI value is 0.28, indicating a moderately low level of vegetation density and health."
@@ -12115,8 +12303,9 @@
     ]
   },
   {
-    "image_name": "Rock of Cashel",
-    "gpt_output": [
+    "ID": "010734",
+    "Name": "Rock of Cashel",
+    "qa_pairs": [
       {
         "question": "How does the image's albedo affect the land surface energy balance?",
         "answer": "With an albedo of 0.2, the surface reflects 20% of incoming solar radiation, affecting the energy absorbed and influencing the surface temperature."
@@ -12180,8 +12369,9 @@
     ]
   },
   {
-    "image_name": "One World Trade Center",
-    "gpt_output": [
+    "ID": "009324",
+    "Name": "One World Trade Center",
+    "qa_pairs": [
       {
         "question": "How suitable is the region for solar energy harvesting?",
         "answer": "The region has a relatively low albedo of 0.13, indicating that surfaces absorb more sunlight. Combined with the moderate wind speed of 5.58m/s, which can help in cooling down solar panels, the area can be somewhat suitable for solar energy harvesting."
@@ -12237,8 +12427,9 @@
     ]
   },
   {
-    "image_name": "Milwaukee Mitchell International Airport",
-    "gpt_output": [
+    "ID": "008018",
+    "Name": "Milwaukee Mitchell International Airport",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level indicated in the data?",
         "answer": "The average prof soil moisture (GWETPROF) is 0.8."
@@ -12302,8 +12493,9 @@
     ]
   },
   {
-    "image_name": "Shenzhen Bao'an International Airport",
-    "gpt_output": [
+    "ID": "011543",
+    "Name": "Shenzhen Bao'an International Airport",
+    "qa_pairs": [
       {
         "question": "What is the general ecological state of the area based on NDVI?",
         "answer": "The NDVI value is 0.14, indicating a low level of vegetation cover, suggesting sparse or stressed vegetation."
@@ -12359,8 +12551,9 @@
     ]
   },
   {
-    "image_name": "Beijing Capital International Airport",
-    "gpt_output": [
+    "ID": "001183",
+    "Name": "Beijing Capital International Airport",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI values?",
         "answer": "The NDVI value is 0.02, indicating sparse vegetation cover and possibly urbanized or non-vegetated areas."
@@ -12416,8 +12609,9 @@
     ]
   },
   {
-    "image_name": "Darwin International Airport",
-    "gpt_output": [
+    "ID": "003264",
+    "Name": "Darwin International Airport",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the provided NDVI value?",
         "answer": "The NDVI value of 0.14 suggests that the area has low vegetation cover, indicating sparse vegetation or non-vegetated surfaces."
@@ -12477,8 +12671,9 @@
     ]
   },
   {
-    "image_name": "Minneapolis–Saint Paul International Airport",
-    "gpt_output": [
+    "ID": "008043",
+    "Name": "Minneapolis–Saint Paul International Airport",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on vegetation indices?",
         "answer": "The ecological status shows low vegetation presence based on NDVI at 0.03, indicating sparse or stressed vegetation."
@@ -12542,8 +12737,9 @@
     ]
   },
   {
-    "image_name": "Hobart Airport",
-    "gpt_output": [
+    "ID": "005500",
+    "Name": "Hobart Airport",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture content from the image?",
         "answer": "The average soil moisture content is 0.55."
@@ -12603,8 +12799,9 @@
     ]
   },
   {
-    "image_name": "Silvio Pettirossi International Airport",
-    "gpt_output": [
+    "ID": "011680",
+    "Name": "Silvio Pettirossi International Airport",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type present based on the image analysis variables?",
         "answer": "The general land cover type present is identified as urban and built-up areas, represented by the LC_Type1 value of 9."
@@ -12668,8 +12865,9 @@
     ]
   },
   {
-    "image_name": "Subic Bay International Airport",
-    "gpt_output": [
+    "ID": "012236",
+    "Name": "Subic Bay International Airport",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the area visible in the remote sensing image?",
         "answer": "The overall albedo of the area is 0.14."
@@ -12733,8 +12931,9 @@
     ]
   },
   {
-    "image_name": "Perth Airport",
-    "gpt_output": [
+    "ID": "009793",
+    "Name": "Perth Airport",
+    "qa_pairs": [
       {
         "question": "What is the average surface emissivity in this area, and what does it suggest about land cover type?",
         "answer": "The average surface emissivity is 0.98, which indicates a surface likely covered by vegetation or water, although the NDVI and NDWI values suggest limited vegetation and water presence."
@@ -12798,8 +12997,9 @@
     ]
   },
   {
-    "image_name": "Shizuoka Airport",
-    "gpt_output": [
+    "ID": "011596",
+    "Name": "Shizuoka Airport",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation based on the surface albedo values?",
         "answer": "The potential for solar energy generation is relatively high with ALBEDO values of 0.11 indicating that the surface absorbs more sunlight as opposed to reflecting it."
@@ -12863,8 +13063,9 @@
     ]
   },
   {
-    "image_name": "Harbin Taiping International Airport",
-    "gpt_output": [
+    "ID": "005213",
+    "Name": "Harbin Taiping International Airport",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value of 0.06 indicates low vegetation cover or health, suggesting a sparse or degraded ecological status."
@@ -12920,8 +13121,9 @@
     ]
   },
   {
-    "image_name": "Tribhuvan International Airport",
-    "gpt_output": [
+    "ID": "013170",
+    "Name": "Tribhuvan International Airport",
+    "qa_pairs": [
       {
         "question": "What is the albedo of the land surface, and what does it indicate about its reflective properties?",
         "answer": "The albedo is 0.19, suggesting that the land surface has moderate reflectivity, meaning it absorbs a reasonable amount of the incoming solar radiation."
@@ -12981,8 +13183,9 @@
     ]
   },
   {
-    "image_name": "Fortaleza–Pinto Martins International Airport",
-    "gpt_output": [
+    "ID": "004390",
+    "Name": "Fortaleza–Pinto Martins International Airport",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on NDVI?",
         "answer": "The NDVI value of 0.21 suggests that the area has relatively low vegetation density, indicating sparse vegetation or urban regions with limited green cover."
@@ -13046,8 +13249,9 @@
     ]
   },
   {
-    "image_name": "Zumbi dos Palmares International Airport",
-    "gpt_output": [
+    "ID": "014722",
+    "Name": "Zumbi dos Palmares International Airport",
+    "qa_pairs": [
       {
         "question": "What is the ecological status in terms of vegetation based on NDVI?",
         "answer": "The NDVI is 0.17, indicating sparse or below-average vegetation cover."
@@ -13107,8 +13311,9 @@
     ]
   },
   {
-    "image_name": "Asmara International Airport",
-    "gpt_output": [
+    "ID": "000710",
+    "Name": "Asmara International Airport",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on vegetation indices in the area?",
         "answer": "The NDVI value is 0.09, indicating low vegetation presence, which suggests a sparse ecological status."
@@ -13172,8 +13377,9 @@
     ]
   },
   {
-    "image_name": "Manchester Airport",
-    "gpt_output": [
+    "ID": "007638",
+    "Name": "Manchester Airport",
+    "qa_pairs": [
       {
         "question": "What is the general level of soil moisture in the area?",
         "answer": "The average profile soil moisture indicates moist conditions with a value of 0.89."
@@ -13237,8 +13443,9 @@
     ]
   },
   {
-    "image_name": "Vágar Airport",
-    "gpt_output": [
+    "ID": "014024",
+    "Name": "Vágar Airport",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the vegetation indices?",
         "answer": "The ecological status appears to be moderate with an NDVI of 0.19, indicating sparse vegetation coverage."
@@ -13302,8 +13509,9 @@
     ]
   },
   {
-    "image_name": "Nashville International Airport",
-    "gpt_output": [
+    "ID": "008620",
+    "Name": "Nashville International Airport",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture level in the area?",
         "answer": "The average soil moisture level is 0.77, indicating a moderately moist condition."
@@ -13367,8 +13575,9 @@
     ]
   },
   {
-    "image_name": "Addis Ababa Bole International Airport",
-    "gpt_output": [
+    "ID": "000102",
+    "Name": "Addis Ababa Bole International Airport",
+    "qa_pairs": [
       {
         "question": "What can the Albedo value tell us about the surface's energy reflection properties?",
         "answer": "The Albedo value of 0.16 indicates that the surface reflects a low amount of solar energy, which is typical for surfaces like asphalt or other urban structures."
@@ -13432,8 +13641,9 @@
     ]
   },
   {
-    "image_name": "Horta Airport",
-    "gpt_output": [
+    "ID": "005625",
+    "Name": "Horta Airport",
+    "qa_pairs": [
       {
         "question": "What is the potential for urbanization in this area based on current land cover?",
         "answer": "The potential for urbanization is limited as the predominant land cover type is '11' which indicates pasture and other non-urban types."
@@ -13489,8 +13699,9 @@
     ]
   },
   {
-    "image_name": "Basilica of the National Shrine of the Immaculate Conception",
-    "gpt_output": [
+    "ID": "001092",
+    "Name": "Basilica of the National Shrine of the Immaculate Conception",
+    "qa_pairs": [
       {
         "question": "What is the dominant type of land cover in this area?",
         "answer": "The dominant land cover type is agricultural, as indicated by LC_Type1 with a value of 13."
@@ -13554,8 +13765,9 @@
     ]
   },
   {
-    "image_name": "Reims Cathedral",
-    "gpt_output": [
+    "ID": "010585",
+    "Name": "Reims Cathedral",
+    "qa_pairs": [
       {
         "question": "What is the albedo of the surface in this area?",
         "answer": "The albedo of the surface is 0.2."
@@ -13619,8 +13831,9 @@
     ]
   },
   {
-    "image_name": "Martkopi monastery",
-    "gpt_output": [
+    "ID": "007783",
+    "Name": "Martkopi monastery",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on vegetation indices?",
         "answer": "The NDVI value is 0.1, indicating sparse vegetation cover, which suggests a low ecological status in terms of healthy vegetation."
@@ -13684,8 +13897,9 @@
     ]
   },
   {
-    "image_name": "Primatial Cathedral of Bogotá",
-    "gpt_output": [
+    "ID": "010207",
+    "Name": "Primatial Cathedral of Bogotá",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type based on the provided variables?",
         "answer": "The general land cover type is identified as LC_Type1 which corresponds to urban and built-up areas according to the classification."
@@ -13741,8 +13955,9 @@
     ]
   },
   {
-    "image_name": "Basilica of St. John",
-    "gpt_output": [
+    "ID": "001088",
+    "Name": "Basilica of St. John",
+    "qa_pairs": [
       {
         "question": "What is the land surface temperature difference between day and night?",
         "answer": "The land surface temperature difference between day and night is 12.69°C, with the day temperature being 23.58°C and the night temperature being 10.89°C."
@@ -13798,8 +14013,9 @@
     ]
   },
   {
-    "image_name": "Strasbourg Cathedral",
-    "gpt_output": [
+    "ID": "012211",
+    "Name": "Strasbourg Cathedral",
+    "qa_pairs": [
       {
         "question": "What is the land cover type based on LC_Type1 property?",
         "answer": "The land cover type based on LC_Type1 is 13, which indicates urban areas."
@@ -13859,12 +14075,9 @@
     ]
   },
   {
-    "image_name": "St Paul's Cathedral, Melbourne",
-    "gpt_output": "```json\n[\n  {\n    \"question\": \"What can be inferred about the ecological status from the land cover type and NDVI values?\",\n    \"answer\": \"The land cover type, classified as 13, indicates a developed or urban area, and the NDVI value of 0.05 suggests sparse vegetation cover, reflecting limited ecological greenery.\"\n  },\n  {\n    \"question\": \"How suitable is the area for solar energy generation based on the albedo values?\",\n    \"answer\": \"With an overall ALBEDO of 0.16, the area reflects a moderate amount of incoming solar radiation, making it reasonably suitable for solar energy generation.\"\n  },\n  {\n    \"question\": \"Can wind energy be effectively harnessed in this area given the wind speed?\",\n    \"answer\": \"The wind speed of 6.08 m/s indicates a moderate potential for wind energy harnessing, which is generally considered suitable for wind turbines.\"\n  },\n  {\n    \"question\": \"What does the snowmelt flux suggest about the water availability from snow sources?\",\n    \"answer\": \"The snowmelt flux over land is 0.48mm, suggesting minimal water availability from snow melting in this area.\"\n  },\n  {\n    \"question\": \"How does the average soil moisture content (GWETPROF) indicate potential agriculture viability?\",\n    \"answer\": \"A soil moisture content of 0.67 suggests adequate moisture levels in the soil, making the area moderately viable for agricultural purposes, though urbanization might limit such activities.\"\n  },\n  {\n    \"question\": \"What does the night land surface temperature reveal about the local climate at night?\",\n    \"answer\": \"The land surface temperature at night is 10.34°C, indicating relatively cooler nighttime conditions, typical for urban areas with heat retention.\"\n  },\n  {\n    \"question\": \"Based on the NDWI value, what can be inferred about the presence of surface water?\",\n    \"answer\": \"An NDWI value of -0.05 suggests limited to no surface water presence in the area.\"\n  },\n  {\n    \"question\": \"What can the surface pressure and mean sea level pressure indicate about this location's elevation or weather conditions?\",\n    \"answer\": \"The surface pressure of 100399.59 Pa and mean sea level pressure of 101771.91 Pa indicate a slightly elevated area or typical weather conditions for an urban environment.\"\n  },\n  {\n    \"question\": \"What does the PRECTOTLAND value suggest about the area's annual precipitation?\",\n    \"answer\": \"With an annual precipitation of 934.28mm, this area can be considered to have substantial rainfall, which could affect urban infrastructure and water management.\"\n  },\n  {\n    \"question\": \"How might the area be impacted by solar radiation based on the spectral reflectance in SR_B4?\",\n    \"answer\": \"A spectral reflectance value of 16567.41 in SR_B4 suggests moderate reflectivity, contributing to urban heat island effects typical in developed areas.\"\n  },\n  {\n    \"question\": \"What does the evapotranspiration (EVLAND) indicate about the vegetation or land use in the area?\",\n    \"answer\": \"EVLAND of 799.06mm suggests limited evapotranspiration likely due to urban surfaces, indicative of sparse vegetation cover.\"\n  },\n  {\n    \"question\": \"What can the mean 2m air temperature suggest about the daytime thermal comfort in the area?\",\n    \"answer\": \"A mean 2m air temperature of 14.66°C suggests mild daytime temperatures, conducive to reasonable comfort levels without extreme thermal stress.\"\n  },\n  {\n    \"question\": \"How can the differences between LST_Day_1km and LST_Night_1km be interpreted in terms of urban heat retention?\",\n    \"answer\": \"With a day-time LST of 21.09°C and night-time LST of 10.34°C, there is significant heat retention during nighttime, a characteristic of urban heat islands.\"\n  },\n  {\n    \"question\": \"What does the NDBI value indicate about the degree of urbanization in the area?\",\n    \"answer\": \"An NDBI value of -0.11 suggests a lower degree of urbanization than expected, possibly due to mixed land use or the presence of natural features.\"\n  },\n  {\n    \"question\": \"Considering the surface emissivity, what can be concluded about the thermal infrared radiation?\"\n    \"answer\": \"The surface emissivity value of 0.99 indicates that the area emits almost all the thermal infrared radiation it absorbs, affecting the local thermal environment.\"\n  }\n]\n```"
-  },
-  {
-    "image_name": "Abbey of Sainte-Trinité, Caen",
-    "gpt_output": [
+    "ID": "000039",
+    "Name": "Abbey of Sainte-Trinité, Caen",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status inferred from the NDVI value?",
         "answer": "The NDVI value of 0.08 indicates a low level of photosynthetic activity, suggesting sparse vegetation or urban development."
@@ -13928,8 +14141,9 @@
     ]
   },
   {
-    "image_name": "Old North Church",
-    "gpt_output": [
+    "ID": "009275",
+    "Name": "Old North Church",
+    "qa_pairs": [
       {
         "question": "What is the level of urbanization based on land cover types present?",
         "answer": "The presence of LC_Type1, LC_Type2, and LC_Type3 with values 13, 13.0, and 10.0 respectively indicates significant urbanization."
@@ -13993,8 +14207,9 @@
     ]
   },
   {
-    "image_name": "Jade Buddha Temple",
-    "gpt_output": [
+    "ID": "006036",
+    "Name": "Jade Buddha Temple",
+    "qa_pairs": [
       {
         "question": "What is the ecological status suggested by the NDVI value?",
         "answer": "The NDVI value of 0.03 indicates minimal vegetation cover, suggesting a predominantly urban or bare surface environment."
@@ -14058,8 +14273,9 @@
     ]
   },
   {
-    "image_name": "St. Mary Cathedral Basilica",
-    "gpt_output": [
+    "ID": "012022",
+    "Name": "St. Mary Cathedral Basilica",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The potential for solar energy generation is moderate. The ALBEDO value is 0.1, indicating a medium reflection of sunlight, which is suitable for solar panels."
@@ -14123,8 +14339,9 @@
     ]
   },
   {
-    "image_name": "St. Joseph's Church, Beijing",
-    "gpt_output": [
+    "ID": "012017",
+    "Name": "St. Joseph's Church, Beijing",
+    "qa_pairs": [
       {
         "question": "Based on the land cover classification, can urbanization be identified in the area?",
         "answer": "Yes, the land cover type (LC_Type1) is 13, indicating urban or built-up areas, suggesting urbanization."
@@ -14188,8 +14405,9 @@
     ]
   },
   {
-    "image_name": "St. Thomas Cathedral Basilica, Chennai",
-    "gpt_output": [
+    "ID": "012047",
+    "Name": "St. Thomas Cathedral Basilica, Chennai",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.08, which suggests a low level of vegetation cover, indicating poor ecological condition."
@@ -14253,8 +14471,9 @@
     ]
   },
   {
-    "image_name": "St Giles' Cathedral",
-    "gpt_output": [
+    "ID": "011959",
+    "Name": "St Giles' Cathedral",
+    "qa_pairs": [
       {
         "question": "How suitable is the region for solar energy development based on its albedo values?",
         "answer": "The region has moderate albedo values with ALBEDO at 0.16, ALBNIRDF at 0.21, ALBNIRDR at 0.28, ALBVISDF at 0.06, and ALBVISDR at 0.09, suggesting good potential for solar energy absorption."
@@ -14318,8 +14537,9 @@
     ]
   },
   {
-    "image_name": "Abbey of the Dormition",
-    "gpt_output": [
+    "ID": "000042",
+    "Name": "Abbey of the Dormition",
+    "qa_pairs": [
       {
         "question": "What is the average soil moisture content in the area?",
         "answer": "The average soil moisture content is 0.51."
@@ -14383,8 +14603,9 @@
     ]
   },
   {
-    "image_name": "Ely Cathedral",
-    "gpt_output": [
+    "ID": "003783",
+    "Name": "Ely Cathedral",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of this area based on NDVI?",
         "answer": "The NDVI value is 0.11, which indicates low vegetation density and possibly sparse or poor vegetation cover."
@@ -14448,8 +14669,9 @@
     ]
   },
   {
-    "image_name": "Bordeaux Cathedral",
-    "gpt_output": [
+    "ID": "001503",
+    "Name": "Bordeaux Cathedral",
+    "qa_pairs": [
       {
         "question": "What is the average daytime land surface temperature in the area?",
         "answer": "The average daytime land surface temperature is 24.51°C."
@@ -14513,8 +14735,9 @@
     ]
   },
   {
-    "image_name": "Salisbury Cathedral",
-    "gpt_output": [
+    "ID": "011074",
+    "Name": "Salisbury Cathedral",
+    "qa_pairs": [
       {
         "question": "What type of land cover is most prominent based on the land cover classification variables?",
         "answer": "The most prominent land cover type, according to LC_Type1 and LC_Type2, is classified as type 12, indicating a particular vegetation or land use category."
@@ -14578,8 +14801,9 @@
     ]
   },
   {
-    "image_name": "Holy Assumption of the Virgin Mary Church",
-    "gpt_output": [
+    "ID": "005556",
+    "Name": "Holy Assumption of the Virgin Mary Church",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological health indicated by the NDVI value?",
         "answer": "The NDVI value is 0.11, suggesting low vegetation presence and potentially poor ecological health."
@@ -14643,8 +14867,9 @@
     ]
   },
   {
-    "image_name": "Catedral de Nuestra Señora de Guadalupe",
-    "gpt_output": [
+    "ID": "002182",
+    "Name": "Catedral de Nuestra Señora de Guadalupe",
+    "qa_pairs": [
       {
         "question": "What is the land cover type predominantly experienced in this image, based on the variable values?",
         "answer": "The predominant land cover type is urban areas, indicated by the LC_Type1 value of 13, corresponding to urban settings."
@@ -14708,8 +14933,9 @@
     ]
   },
   {
-    "image_name": "Grenoble Alpes University",
-    "gpt_output": [
+    "ID": "004981",
+    "Name": "Grenoble Alpes University",
+    "qa_pairs": [
       {
         "question": "What is the general land use classification in this area?",
         "answer": "The general land use classification based on LC_Type1 is 13, which corresponds to urban and built-up land."
@@ -14765,8 +14991,9 @@
     ]
   },
   {
-    "image_name": "University of Kufa",
-    "gpt_output": [
+    "ID": "013537",
+    "Name": "University of Kufa",
+    "qa_pairs": [
       {
         "question": "What is the level of urbanization in the area based on land cover type?",
         "answer": "Based on land cover types LC_Type1 and LC_Type2, which are 13 and 13.0 respectively, the area is largely urbanized."
@@ -14830,8 +15057,9 @@
     ]
   },
   {
-    "image_name": "Durham University",
-    "gpt_output": [
+    "ID": "003591",
+    "Name": "Durham University",
+    "qa_pairs": [
       {
         "question": "What is the general level of land cover moisture in the area, and what does it imply?",
         "answer": "The average soil moisture (GWETPROF) is 0.89, suggesting high soil moisture content which implies well-watered or potentially saturated lands."
@@ -14895,8 +15123,9 @@
     ]
   },
   {
-    "image_name": "Arizona State University",
-    "gpt_output": [
+    "ID": "000647",
+    "Name": "Arizona State University",
+    "qa_pairs": [
       {
         "question": "What is the albedo value of the observed area, and what does it suggest about surface reflectivity?",
         "answer": "The albedo value is 0.21, suggesting that the area has moderate surface reflectivity, typical of urban and built-up surfaces."
@@ -14960,8 +15189,9 @@
     ]
   },
   {
-    "image_name": "Massachusetts Institute of Technology",
-    "gpt_output": [
+    "ID": "007808",
+    "Name": "Massachusetts Institute of Technology",
+    "qa_pairs": [
       {
         "question": "What is the likelihood of this area being urbanized?",
         "answer": "Given the low NDVI value of 0.09 and NDBI of -0.14, urbanization is likely, which is supported by the high surface reflectance in visible bands (SR_B3: 18713.39) indicating built structures."
@@ -15025,8 +15255,9 @@
     ]
   },
   {
-    "image_name": "Andalas University",
-    "gpt_output": [
+    "ID": "000453",
+    "Name": "Andalas University",
+    "qa_pairs": [
       {
         "question": "What is the surface albedo of the area, and how might it influence local climate?",
         "answer": "The surface albedo is 0.13, indicating that the area absorbs most of the incoming solar radiation, which can contribute to higher local temperatures."
@@ -15090,8 +15321,9 @@
     ]
   },
   {
-    "image_name": "Humboldt University of Berlin",
-    "gpt_output": [
+    "ID": "005711",
+    "Name": "Humboldt University of Berlin",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation indices?",
         "answer": "The ecological status shows low vegetation activity indicated by NDVI of 0.05."
@@ -15151,8 +15383,9 @@
     ]
   },
   {
-    "image_name": "University of Kentucky",
-    "gpt_output": [
+    "ID": "013530",
+    "Name": "University of Kentucky",
+    "qa_pairs": [
       {
         "question": "What is the daytime land surface temperature, and how might it affect urban surface heat?",
         "answer": "The daytime land surface temperature is 25.31°C, which can contribute to urban heat island effects in built-up areas."
@@ -15216,8 +15449,9 @@
     ]
   },
   {
-    "image_name": "Dali University",
-    "gpt_output": [
+    "ID": "003211",
+    "Name": "Dali University",
+    "qa_pairs": [
       {
         "question": "How would you assess the suitability of this area for wind energy generation based on wind speed?",
         "answer": "The area shows a wind speed of 3.97 m/s, which is relatively low for efficient wind energy generation."
@@ -15281,8 +15515,9 @@
     ]
   },
   {
-    "image_name": "University of Lorraine",
-    "gpt_output": [
+    "ID": "013555",
+    "Name": "University of Lorraine",
+    "qa_pairs": [
       {
         "question": "What is the average daytime land surface temperature in the area?",
         "answer": "The average daytime land surface temperature is 17.87°C."
@@ -15334,8 +15569,9 @@
     ]
   },
   {
-    "image_name": "University of Fort Hare",
-    "gpt_output": [
+    "ID": "013487",
+    "Name": "University of Fort Hare",
+    "qa_pairs": [
       {
         "question": "How suitable is the land for solar energy development based on surface characteristics?",
         "answer": "The land has an ALBEDO of 0.16, indicating a moderate reflectivity which could be suitable for solar energy development."
@@ -15399,8 +15635,9 @@
     ]
   },
   {
-    "image_name": "Henan University",
-    "gpt_output": [
+    "ID": "005373",
+    "Name": "Henan University",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status of the observed area based on the NDVI value?",
         "answer": "The ecological status of the area seems poor given the NDVI value of 0.08, indicating little vegetation cover."
@@ -15464,8 +15701,9 @@
     ]
   },
   {
-    "image_name": "Stellenbosch University",
-    "gpt_output": [
+    "ID": "012160",
+    "Name": "Stellenbosch University",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status based on vegetation indices?",
         "answer": "The NDVI is 0.21, which suggests low to moderate vegetation density, potentially indicative of sparse vegetation or a transition area."
@@ -15521,8 +15759,9 @@
     ]
   },
   {
-    "image_name": "Curtin University",
-    "gpt_output": [
+    "ID": "003146",
+    "Name": "Curtin University",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type represented by LC_Type1, and what might it imply about the region?",
         "answer": "The LC_Type1 value is 13, which typically represents urban and built-up areas. This implies a high level of urbanization in the region."
@@ -15574,8 +15813,9 @@
     ]
   },
   {
-    "image_name": "Goethe University Frankfurt",
-    "gpt_output": [
+    "ID": "004775",
+    "Name": "Goethe University Frankfurt",
+    "qa_pairs": [
       {
         "question": "Given the land cover type values, which classification categories are most associated with this area?",
         "answer": "The land cover types are primarily urban and built-up areas, as denoted by the values LC_Type1: 13, LC_Type2: 13.0, LC_Type3: 10.0, and LC_Type4: 8.0."
@@ -15639,8 +15879,9 @@
     ]
   },
   {
-    "image_name": "University of Tennessee",
-    "gpt_output": [
+    "ID": "013681",
+    "Name": "University of Tennessee",
+    "qa_pairs": [
       {
         "question": "What is the overall ecological status based on the vegetation indices?",
         "answer": "The ecological status appears to be degraded as indicated by a low NDVI value of 0.05, suggesting minimal vegetation."
@@ -15704,8 +15945,9 @@
     ]
   },
   {
-    "image_name": "University of Texas at Austin",
-    "gpt_output": [
+    "ID": "013682",
+    "Name": "University of Texas at Austin",
+    "qa_pairs": [
       {
         "question": "What is the general albedo level of the area, and what does it indicate about the surface reflectivity?",
         "answer": "The albedo level is 0.17, indicating moderate surface reflectivity, which is typical for urban areas with mixed materials and vegetation."
@@ -15761,8 +16003,9 @@
     ]
   },
   {
-    "image_name": "University of Alberta",
-    "gpt_output": [
+    "ID": "013407",
+    "Name": "University of Alberta",
+    "qa_pairs": [
       {
         "question": "What is the general state of vegetation in this area based on the NDVI value?",
         "answer": "The NDVI value of 0.05 indicates sparse or minimal vegetation coverage in the area."
@@ -15814,8 +16057,9 @@
     ]
   },
   {
-    "image_name": "Complutense University of Madrid",
-    "gpt_output": [
+    "ID": "002945",
+    "Name": "Complutense University of Madrid",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status based on the NDVI value provided?",
         "answer": "The NDVI value is 0.27, which suggests a moderate vegetation cover and indicates an intermediate ecological status."
@@ -15867,8 +16111,9 @@
     ]
   },
   {
-    "image_name": "University of Chlef",
-    "gpt_output": [
+    "ID": "013459",
+    "Name": "University of Chlef",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.07, which suggests low vegetation cover and possibly arid or urban conditions."
@@ -15924,8 +16169,9 @@
     ]
   },
   {
-    "image_name": "American Museum of Natural History",
-    "gpt_output": [
+    "ID": "000406",
+    "Name": "American Museum of Natural History",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status based on NDVI?",
         "answer": "The NDVI is 0.01, indicating sparse or non-existent vegetation cover, suggesting a low ecological status."
@@ -15981,8 +16227,9 @@
     ]
   },
   {
-    "image_name": "Kobe",
-    "gpt_output": [
+    "ID": "006665",
+    "Name": "Kobe",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type dominant in this region based on the provided classification?",
         "answer": "The dominant land cover type is classified as 13, which typically represents urban or built-up land."
@@ -16046,8 +16293,9 @@
     ]
   },
   {
-    "image_name": "Oregon Museum of Science and Industry",
-    "gpt_output": [
+    "ID": "009350",
+    "Name": "Oregon Museum of Science and Industry",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on vegetation indices?",
         "answer": "The ecological status indicates low vegetation coverage with NDVI at 0.03."
@@ -16111,8 +16359,9 @@
     ]
   },
   {
-    "image_name": "National Archaeological Museum, Athens",
-    "gpt_output": [
+    "ID": "008630",
+    "Name": "National Archaeological Museum, Athens",
+    "qa_pairs": [
       {
         "question": "What is the current ecological condition as indicated by the NDVI value?",
         "answer": "The NDVI value is 0.03, suggesting a low level of vegetation and possibly limited ecological richness."
@@ -16176,8 +16425,9 @@
     ]
   },
   {
-    "image_name": "National Film and Sound Archive",
-    "gpt_output": [
+    "ID": "008656",
+    "Name": "National Film and Sound Archive",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area?",
         "answer": "The NDVI of 0.04 indicates a low level of vegetation greenness, suggesting a limited ecological vigor in terms of plant coverage."
@@ -16233,8 +16483,9 @@
     ]
   },
   {
-    "image_name": "Fotomuseum aan het Vrijthof",
-    "gpt_output": [
+    "ID": "004413",
+    "Name": "Fotomuseum aan het Vrijthof",
+    "qa_pairs": [
       {
         "question": "What is the average land surface temperature during the day according to this data?",
         "answer": "The average land surface temperature during the day is 20.98°C."
@@ -16298,8 +16549,9 @@
     ]
   },
   {
-    "image_name": "Egyptian Museum",
-    "gpt_output": [
+    "ID": "003691",
+    "Name": "Egyptian Museum",
+    "qa_pairs": [
       {
         "question": "What is the land cover type according to LC_Type1 for the observed area?",
         "answer": "The land cover type according to LC_Type1 is Urban and Built-Up Land, which is indicated by the code 13."
@@ -16355,8 +16607,9 @@
     ]
   },
   {
-    "image_name": "Colby College Museum of Art",
-    "gpt_output": [
+    "ID": "002903",
+    "Name": "Colby College Museum of Art",
+    "qa_pairs": [
       {
         "question": "What is the average surface temperature during the day in this area?",
         "answer": "The average surface temperature during the day is 15.24°C."
@@ -16420,8 +16673,9 @@
     ]
   },
   {
-    "image_name": "New Castle Court House Museum",
-    "gpt_output": [
+    "ID": "008887",
+    "Name": "New Castle Court House Museum",
+    "qa_pairs": [
       {
         "question": "What are the implications of the observed low NDVI value on vegetation condition?",
         "answer": "The low NDVI value of 0.07 suggests poor vegetation health or limited vegetation presence."
@@ -16485,12 +16739,9 @@
     ]
   },
   {
-    "image_name": "Pier Arts Centre",
-    "gpt_output": "```json\n[\n  {\n    \"question\": \"What is the ecological status indicated by the NDVI value?\",\n    \"answer\": \"The NDVI value is 0.08, which suggests low vegetation presence, likely indicating urban or developed areas rather than natural vegetation.\"\n  },\n  {\n    \"question\": \"Is there significant snowmelt occurring in the area?\",\n    \"answer\": \"There is no snowmelt flux over land, indicated by the value of 0.0mm, suggesting that snowmelt is not a significant factor here.\"\n  },\n  {\n    \"question\": \"Considering the albedo values, how reflective is the surface in the visible and near-infrared spectra?\",\n    \"answer\": \"The surface has relatively low albedo values in both visible (ALBVISDF: 0.07, ALBVISDR: 0.13) and near-infrared (ALBNIRDF: 0.11, ALBNIRDR: 0.18) spectra, indicating it is not highly reflective.\"\n  },\n  {\n    \"question\": \"What can be inferred about the surface temperature during the day and night?\",\n    \"answer\": \"Daytime land surface temperature is 9.53°C and nighttime is 3.53°C, showing a moderate temperature difference between day and night.\"\n  },\n  {\n    \"question\": \"How suitable is the area for solar energy harvesting?\",\n    \"answer\": \"The relatively low albedo values (e.g., ALBVISDF: 0.07) suggest the surface absorbs more solar energy, which may be favorable for solar energy harvesting.\"\n  },\n  {\n    \"question\": \"What does the surface emissivity tell us about the heat radiation characteristics of the area?\",\n    \"answer\": \"The surface emissivity is 0.98, indicating the surface efficiently emits thermal radiation, which is typical for urban or water bodies.\"\n  },\n  {\n    \"question\": \"Can the region be classified as urban based on the NDBI value?\",\n    \"answer\": \"The NDBI value is -0.16, suggesting that the area does not exhibit typical urban characteristics, which might be contradictory given the image content.\"\n  },\n  {\n    \"question\": \"What are the implications of the average soil moisture value on the surface?\"\n    \"answer\": \"The average soil moisture (GWETPROF) is 0.89, indicating high soil moisture content, which can affect vegetation growth and surface stability.\"\n  },\n  {\n    \"question\": \"Is wind energy feasible based on the current surface wind speed and direction?\",\n    \"answer\": \"With a wind speed of 10.09 m/s and eastward/northward components of 2.76 m/s and 2.39 m/s, it appears viable for wind energy generation.\"\n  },\n  {\n    \"question\": \"How does the total precipitation over land reflect on water resource availability?\",\n    \"answer\": \"Total precipitation over land is 1334.1mm, which indicates a substantial amount of rainfall, potentially supporting good water resource availability.\"\n  },\n  {\n    \"question\": \"What type of land cover predominantly exists in the area?\",\n    \"answer\": \"Land Cover Type 1 is reported as 17, indicating the presence of dense or developed areas like urban settings.\"\n  },\n  {\n    \"question\": \"Analyze the climate risk based on mean sea level pressure and surface pressure.\",\n    \"answer\": \"Mean sea level pressure is 100864.95 Pa, and surface pressure is 100687.85 Pa, suggesting typical atmospheric conditions with low immediate climate risk.\"\n  },\n  {\n    \"question\": \"How does the mean 2m air temperature correlate with surface temperature?\",\n    \"answer\": \"Mean 2m air temperature is 7.75°C, which is close to the surface temperature of 10.02°C, indicating a typical alignment between air and surface temperatures.\"\n  },\n  {\n    \"question\": \"Is the albedo in the visible spectrum indicative of urban or natural surface types?\",\n    \"answer\": \"With ALBVIS values of 0.07 and 0.13, the low albedo suggests urban or developed surfaces rather than natural ones.\"\n  },\n  {\n    \"question\": \"Evaluate the energy balance potential at this location considering the observed environmental variables.\",\n    \"answer\": \"The combination of low albedo, high emissivity, and wind speed provides insights into energy balance, possibly conducive to solar and wind energy potential.\"\n  }\n]\n```"
-  },
-  {
-    "image_name": "Virginia Museum of Fine Arts",
-    "gpt_output": [
+    "ID": "013984",
+    "Name": "Virginia Museum of Fine Arts",
+    "qa_pairs": [
       {
         "question": "What is the current ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.25, which suggests a moderate level of vegetation greenness indicative of some vegetation presence but not very dense or healthy."
@@ -16554,8 +16805,9 @@
     ]
   },
   {
-    "image_name": "Cité de l'Automobile",
-    "gpt_output": [
+    "ID": "002799",
+    "Name": "Cité de l'Automobile",
+    "qa_pairs": [
       {
         "question": "What is the assessment of the ecological status based on the vegetation indices?",
         "answer": "The ecological status appears to be low based on the NDVI value of 0.05, which suggests sparse vegetation."
@@ -16619,8 +16871,9 @@
     ]
   },
   {
-    "image_name": "Musée Saint-Remi",
-    "gpt_output": [
+    "ID": "008469",
+    "Name": "Musée Saint-Remi",
+    "qa_pairs": [
       {
         "question": "What is the land cover type based on the classification index provided?",
         "answer": "The land cover type is classified as LC_Type1 with a value of 13, indicating it represents an 'urban built-up' area."
@@ -16676,8 +16929,9 @@
     ]
   },
   {
-    "image_name": "Sursock Museum",
-    "gpt_output": [
+    "ID": "012348",
+    "Name": "Sursock Museum",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.06, indicating minimal vegetation or sparse plant cover in the area."
@@ -16741,8 +16995,9 @@
     ]
   },
   {
-    "image_name": "Walker Art Center",
-    "gpt_output": [
+    "ID": "014069",
+    "Name": "Walker Art Center",
+    "qa_pairs": [
       {
         "question": "How might the ecological conditions be assessed given the current NDVI value?",
         "answer": "The NDVI value is 0.05, indicating sparse vegetation cover and potentially poor ecological conditions."
@@ -16806,8 +17061,9 @@
     ]
   },
   {
-    "image_name": "Victoria and Albert Museum",
-    "gpt_output": [
+    "ID": "013920",
+    "Name": "Victoria and Albert Museum",
+    "qa_pairs": [
       {
         "question": "What is the surface emissivity detected in this area, and what might it indicate about land cover characteristics?",
         "answer": "The surface emissivity is 0.98, indicating a land cover that is likely vegetated or contains water bodies, as surfaces with high emissivity often correspond to these types of covers."
@@ -16871,8 +17127,9 @@
     ]
   },
   {
-    "image_name": "Musée Gadagne",
-    "gpt_output": [
+    "ID": "008465",
+    "Name": "Musée Gadagne",
+    "qa_pairs": [
       {
         "question": "What is the approximate land surface temperature during the day observed in this area?",
         "answer": "The land surface temperature during the day is approximately 23.12°C."
@@ -16928,8 +17185,9 @@
     ]
   },
   {
-    "image_name": "Neon Museum",
-    "gpt_output": [
+    "ID": "008859",
+    "Name": "Neon Museum",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status indicated by the NDVI value?",
         "answer": "The NDVI value of 0.07 indicates low vegetation density, suggesting poor ecological health."
@@ -16985,8 +17243,9 @@
     ]
   },
   {
-    "image_name": "Caerleon Roman Fortress and Baths",
-    "gpt_output": [
+    "ID": "001850",
+    "Name": "Caerleon Roman Fortress and Baths",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on vegetation indices?",
         "answer": "The NDVI is 0.13, indicating low vegetation density, which suggests limited ecological cover."
@@ -17042,8 +17301,9 @@
     ]
   },
   {
-    "image_name": "Fremantle Arts Centre",
-    "gpt_output": [
+    "ID": "004470",
+    "Name": "Fremantle Arts Centre",
+    "qa_pairs": [
       {
         "question": "Is this area suitable for solar energy generation?",
         "answer": "With an overall albedo of 0.15 indicating moderate reflectivity, the area might be suitable for solar energy generation."
@@ -17107,8 +17367,9 @@
     ]
   },
   {
-    "image_name": "Massey Hall",
-    "gpt_output": [
+    "ID": "007811",
+    "Name": "Massey Hall",
+    "qa_pairs": [
       {
         "question": "What is the surface temperature during the day in this area?",
         "answer": "The surface temperature during the day is 22.65°C."
@@ -17172,8 +17433,9 @@
     ]
   },
   {
-    "image_name": "The Blue Note (Columbia, Missouri)",
-    "gpt_output": [
+    "ID": "012749",
+    "Name": "The Blue Note (Columbia, Missouri)",
+    "qa_pairs": [
       {
         "question": "What is the predominant land cover type in the area based on the provided variables?",
         "answer": "The predominant land cover type is urban and built-up lands, as indicated by LC_Type1, LC_Type2, LC_Type3, LC_Type4, and LC_Type5 values being associated with urban classifications."
@@ -17225,8 +17487,9 @@
     ]
   },
   {
-    "image_name": "Forum Theatre",
-    "gpt_output": [
+    "ID": "004396",
+    "Name": "Forum Theatre",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area?",
         "answer": "The area has a moderate potential for solar energy generation with an albedo of 0.16. This indicates that a decent amount of solar radiation is absorbed."
@@ -17290,8 +17553,9 @@
     ]
   },
   {
-    "image_name": "San Jose Civic",
-    "gpt_output": [
+    "ID": "011139",
+    "Name": "San Jose Civic",
+    "qa_pairs": [
       {
         "question": "What does the low NDVI value suggest about the vegetation density in the area?",
         "answer": "The low NDVI value of 0.04 suggests sparse or minimal vegetation density in the area."
@@ -17355,8 +17619,9 @@
     ]
   },
   {
-    "image_name": "BATS Theatre",
-    "gpt_output": [
+    "ID": "000851",
+    "Name": "BATS Theatre",
+    "qa_pairs": [
       {
         "question": "What is the current ecological status based on the NDVI value?",
         "answer": "The NDVI value of 0.03 suggests poor vegetation health and sparse vegetation cover."
@@ -17420,8 +17685,9 @@
     ]
   },
   {
-    "image_name": "Arie Crown Theater",
-    "gpt_output": [
+    "ID": "000638",
+    "Name": "Arie Crown Theater",
+    "qa_pairs": [
       {
         "question": "How would you assess the water resource availability based on precipitation and soil moisture levels?",
         "answer": "The precipitation is 956.47mm and the average soil moisture (GWETPROF) is 0.77, suggesting relatively high water resource availability."
@@ -17485,8 +17751,9 @@
     ]
   },
   {
-    "image_name": "Santa Fe Opera",
-    "gpt_output": [
+    "ID": "011210",
+    "Name": "Santa Fe Opera",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value is 0.01, which indicates very sparse or no vegetation and suggests a low ecological status."
@@ -17542,8 +17809,9 @@
     ]
   },
   {
-    "image_name": "Lexington Opera House",
-    "gpt_output": [
+    "ID": "007174",
+    "Name": "Lexington Opera House",
+    "qa_pairs": [
       {
         "question": "What is the current land cover type classification for the area based on the predominant class?",
         "answer": "The land cover type classification is Urban and Built-up land, corresponding to LC_Type1 through LC_Type5 values predominantly at 8, 9, 10, and 13."
@@ -17607,8 +17875,9 @@
     ]
   },
   {
-    "image_name": "Knight Center Complex",
-    "gpt_output": [
+    "ID": "006641",
+    "Name": "Knight Center Complex",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on vegetation indices?",
         "answer": "The ecological status shows low vegetation health as indicated by a low NDVI value of 0.04."
@@ -17672,8 +17941,9 @@
     ]
   },
   {
-    "image_name": "Hollywood Theatre (Portland, Oregon)",
-    "gpt_output": [
+    "ID": "005550",
+    "Name": "Hollywood Theatre (Portland, Oregon)",
+    "qa_pairs": [
       {
         "question": "What is the suitability of this area for solar energy harnessing?",
         "answer": "The area has an ALBEDO value of 0.13, indicating a relatively low reflectance which is suitable for absorbing solar energy. However, detailed analysis on cloud cover and shading is required."
@@ -17729,8 +17999,9 @@
     ]
   },
   {
-    "image_name": "Auditorium Theatre",
-    "gpt_output": [
+    "ID": "000777",
+    "Name": "Auditorium Theatre",
+    "qa_pairs": [
       {
         "question": "What is the general daytime land surface temperature in the image area?",
         "answer": "The daytime land surface temperature is approximately 19.16°C."
@@ -17794,8 +18065,9 @@
     ]
   },
   {
-    "image_name": "Fox Theatre (Detroit)",
-    "gpt_output": [
+    "ID": "004424",
+    "Name": "Fox Theatre (Detroit)",
+    "qa_pairs": [
       {
         "question": "What is the ecological status of the area based on NDVI?",
         "answer": "The ecological status is likely to be poor, as indicated by the low NDVI value of 0.03, suggesting minimal vegetation cover."
@@ -17859,8 +18131,9 @@
     ]
   },
   {
-    "image_name": "Detroit Repertory Theatre",
-    "gpt_output": [
+    "ID": "003349",
+    "Name": "Detroit Repertory Theatre",
+    "qa_pairs": [
       {
         "question": "What is the ecological status based on the NDVI value?",
         "answer": "The NDVI value is 0.04, indicating very sparse vegetation or possibly barren land, suggesting limited ecological activity."
@@ -17920,8 +18193,9 @@
     ]
   },
   {
-    "image_name": "California Theatre (San Francisco)",
-    "gpt_output": [
+    "ID": "001891",
+    "Name": "California Theatre (San Francisco)",
+    "qa_pairs": [
       {
         "question": "How can we assess the potential for solar energy harvesting in this area?",
         "answer": "The ALBEDO value is 0.12, indicating low reflection, which is favorable for solar energy harvesting."
@@ -17985,8 +18259,9 @@
     ]
   },
   {
-    "image_name": "Twelfth Night Theatre",
-    "gpt_output": [
+    "ID": "013270",
+    "Name": "Twelfth Night Theatre",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in the area?",
         "answer": "The low albedo value of 0.11 suggests good potential for solar energy absorption, making the area suitable for solar energy generation."
@@ -18050,8 +18325,9 @@
     ]
   },
   {
-    "image_name": "State Opera (Prague)",
-    "gpt_output": [
+    "ID": "012139",
+    "Name": "State Opera (Prague)",
+    "qa_pairs": [
       {
         "question": "What is the ecological status as indicated by the NDVI value?",
         "answer": "The NDVI value is 0.04, suggesting low vegetation density and potential urbanized or barren areas."
@@ -18115,8 +18391,9 @@
     ]
   },
   {
-    "image_name": "National School of Drama",
-    "gpt_output": [
+    "ID": "008756",
+    "Name": "National School of Drama",
+    "qa_pairs": [
       {
         "question": "What is the dominant land cover type represented in the image, and how does it affect the local ecology?",
         "answer": "The dominant land cover type is urban and built-up land, indicated by the classification code '13'. This type of land cover can disrupt natural habitats and increase impervious surfaces, potentially leading to reduced local biodiversity and altered hydrological processes."
@@ -18180,8 +18457,9 @@
     ]
   },
   {
-    "image_name": "Théâtre des Célestins",
-    "gpt_output": [
+    "ID": "012920",
+    "Name": "Théâtre des Célestins",
+    "qa_pairs": [
       {
         "question": "What is the ecological state of the area given the NDVI value?",
         "answer": "The ecological state appears to have low vegetation density, as indicated by an NDVI of 0.08."
@@ -18225,8 +18503,9 @@
     ]
   },
   {
-    "image_name": "Chase's Theater and Riggs Building",
-    "gpt_output": [
+    "ID": "002373",
+    "Name": "Chase's Theater and Riggs Building",
+    "qa_pairs": [
       {
         "question": "What is the average land surface temperature during the day?",
         "answer": "The average land surface temperature during the day is 23.1°C."
@@ -18290,8 +18569,9 @@
     ]
   },
   {
-    "image_name": "Cuvilliés Theatre",
-    "gpt_output": [
+    "ID": "003154",
+    "Name": "Cuvilliés Theatre",
+    "qa_pairs": [
       {
         "question": "How suitable is this region for solar energy installations based on surface albedo values?",
         "answer": "The region has an ALBEDO of 0.17, which indicates moderate reflection. This albedo is reasonably suitable for solar energy installations as it allows for absorption of solar radiation."
@@ -18343,8 +18623,9 @@
     ]
   },
   {
-    "image_name": "Cherokee National Forest",
-    "gpt_output": [
+    "ID": "002420",
+    "Name": "Cherokee National Forest",
+    "qa_pairs": [
       {
         "question": "What is the potential for solar energy generation in this area based on the albedo value?",
         "answer": "The albedo is 0.15, suggesting a relatively low reflection of solar radiation, which indicates that the area could be suitable for solar energy generation."
@@ -18392,8 +18673,9 @@
     ]
   },
   {
-    "image_name": "Panfilia Wood",
-    "gpt_output": [
+    "ID": "009564",
+    "Name": "Panfilia Wood",
+    "qa_pairs": [
       {
         "question": "What is the land cover type primarily present in the area?",
         "answer": "The land cover type primarily present is 'LC_Type1' with a value of 12, which typically indicates urban and built-up areas in classification schema."
@@ -18457,8 +18739,9 @@
     ]
   },
   {
-    "image_name": "Kisatchie National Forest",
-    "gpt_output": [
+    "ID": "006614",
+    "Name": "Kisatchie National Forest",
+    "qa_pairs": [
       {
         "question": "What is the estimated ecological status of the region based on vegetation indices?",
         "answer": "The NDVI value of 0.19 indicates sparse vegetation cover, potentially suggesting degraded or sparse vegetation areas."
@@ -18522,8 +18805,9 @@
     ]
   },
   {
-    "image_name": "Southern Andean Yungas",
-    "gpt_output": [
+    "ID": "011878",
+    "Name": "Southern Andean Yungas",
+    "qa_pairs": [
       {
         "question": "What is the average land surface temperature during the day in this area?",
         "answer": "The average land surface temperature during the day is 24.53°C."
@@ -18587,8 +18871,9 @@
     ]
   },
   {
-    "image_name": "Carajás National Forest",
-    "gpt_output": [
+    "ID": "002031",
+    "Name": "Carajás National Forest",
+    "qa_pairs": [
       {
         "question": "What is the average land surface temperature during the day based on the data?",
         "answer": "The average land surface temperature during the day is 30.46°C."
@@ -18652,8 +18937,9 @@
     ]
   },
   {
-    "image_name": "Netravali Wildlife Sanctuary",
-    "gpt_output": [
+    "ID": "008871",
+    "Name": "Netravali Wildlife Sanctuary",
+    "qa_pairs": [
       {
         "question": "Given the land cover types, what is the potential for ecological conservation in the area?",
         "answer": "The area shows potential for ecological conservation with a dominant land cover type 8 (forest), complemented by land cover types 4 and 2 (shrubland/grassland)."
@@ -18717,8 +19003,9 @@
     ]
   },
   {
-    "image_name": "Cerisy-Belle-Étoile",
-    "gpt_output": [
+    "ID": "002298",
+    "Name": "Cerisy-Belle-Étoile",
+    "qa_pairs": [
       {
         "question": "How suitable is this area for wind energy development?",
         "answer": "The wind speed is 7.52m/s, which is generally acceptable for wind energy development."
@@ -18782,8 +19069,9 @@
     ]
   },
   {
-    "image_name": "Crothers Woods",
-    "gpt_output": [
+    "ID": "003114",
+    "Name": "Crothers Woods",
+    "qa_pairs": [
       {
         "question": "What can be inferred about the ecological status of the observed area based on the NDVI value?",
         "answer": "The NDVI value of 0.17 suggests relatively low vegetative activity, indicating potentially sparse or unhealthy vegetation."
@@ -18847,8 +19135,9 @@
     ]
   },
   {
-    "image_name": "Sequoia National Forest",
-    "gpt_output": [
+    "ID": "011420",
+    "Name": "Sequoia National Forest",
+    "qa_pairs": [
       {
         "question": "What is the potential of solar energy generation in this area?",
         "answer": "The potential for solar energy generation is moderate due to an albedo of 0.23, which indicates a decent amount of solar energy absorption."
@@ -18912,8 +19201,9 @@
     ]
   },
   {
-    "image_name": "Angeles National Forest",
-    "gpt_output": [
+    "ID": "000474",
+    "Name": "Angeles National Forest",
+    "qa_pairs": [
       {
         "question": "How suitable is the area for solar energy generation based on albedo values?",
         "answer": "The area has an albedo value of 0.19, which suggests moderate solar energy reflectance, making it fairly suitable for solar energy generation."
@@ -18977,8 +19267,9 @@
     ]
   },
   {
-    "image_name": "Central Highlands (Victoria)",
-    "gpt_output": [
+    "ID": "002270",
+    "Name": "Central Highlands (Victoria)",
+    "qa_pairs": [
       {
         "question": "What is the general ecological status of the area based on the vegetation index?",
         "answer": "The NDVI value is 0.11, indicating sparse vegetation and low ecological productivity."
@@ -19042,8 +19333,9 @@
     ]
   },
   {
-    "image_name": "Pinery Provincial Park",
-    "gpt_output": [
+    "ID": "009926",
+    "Name": "Pinery Provincial Park",
+    "qa_pairs": [
       {
         "question": "What is the predominant land cover type indicated by the image?",
         "answer": "The predominant land cover type is type 4, which corresponds to forested areas."
@@ -19107,8 +19399,9 @@
     ]
   },
   {
-    "image_name": "Royal forest",
-    "gpt_output": [
+    "ID": "010893",
+    "Name": "Royal forest",
+    "qa_pairs": [
       {
         "question": "What is the estimated potential for wind energy generation based on the wind speed?",
         "answer": "The wind speed is 7.85m/s, which indicates a moderate potential for wind energy generation."
@@ -19164,8 +19457,9 @@
     ]
   },
   {
-    "image_name": "El Yunque National Forest",
-    "gpt_output": [
+    "ID": "003743",
+    "Name": "El Yunque National Forest",
+    "qa_pairs": [
       {
         "question": "What is the potential ecological status of the area based on the NDVI value?",
         "answer": "The NDVI value of 0.13 indicates low vegetation density, suggesting a sparse or degraded ecological status."
@@ -19217,8 +19511,9 @@
     ]
   },
   {
-    "image_name": "Paimpont forest",
-    "gpt_output": [
+    "ID": "009455",
+    "Name": "Paimpont forest",
+    "qa_pairs": [
       {
         "question": "What is the albedo value, and how would it impact the energy balance of this area?",
         "answer": "The albedo value is 0.16, indicating a relatively low reflectance, which means the area absorbs more solar energy and may experience increased surface warming."
@@ -19282,8 +19577,9 @@
     ]
   },
   {
-    "image_name": "Kasugayama Primeval Forest",
-    "gpt_output": [
+    "ID": "006392",
+    "Name": "Kasugayama Primeval Forest",
+    "qa_pairs": [
       {
         "question": "What land cover type is dominant in the area according to the remote sensing classification?",
         "answer": "The dominant land cover type is forest, indicated by LC_Type1 being 1, which typically corresponds to forested areas."
@@ -19347,8 +19643,9 @@
     ]
   },
   {
-    "image_name": "Soto de Viñuelas",
-    "gpt_output": [
+    "ID": "011844",
+    "Name": "Soto de Viñuelas",
+    "qa_pairs": [
       {
         "question": "What type of land cover is primarily observed in the image based on the given land cover classifications?",
         "answer": "The primary land cover type is classified as 'LC_Type1' and 'LC_Type2', both of which correspond to category 9 in this dataset."
@@ -19412,8 +19709,9 @@
     ]
   },
   {
-    "image_name": "Central Canadian Shield forests",
-    "gpt_output": [
+    "ID": "002265",
+    "Name": "Central Canadian Shield forests",
+    "qa_pairs": [
       {
         "question": "What is the overall albedo of the area, and how might it influence the local climate?",
         "answer": "The overall albedo is 0.28, suggesting a moderate reflectivity which can have a cooling effect on local climates by reflecting sunlight."
@@ -19477,8 +19775,9 @@
     ]
   },
   {
-    "image_name": "Keibul Lamjao National Park",
-    "gpt_output": [
+    "ID": "006428",
+    "Name": "Keibul Lamjao National Park",
+    "qa_pairs": [
       {
         "question": "What is the general land cover type indicated by the Land Cover Type variable?",
         "answer": "The general land cover type is urban and built-up, as indicated by LC_Type1: 9."
@@ -19542,8 +19841,9 @@
     ]
   },
   {
-    "image_name": "Saihanba National Forest Park",
-    "gpt_output": [
+    "ID": "011014",
+    "Name": "Saihanba National Forest Park",
+    "qa_pairs": [
       {
         "question": "What is the likelihood of vegetation stress in the observed area based on NDVI?",
         "answer": "The NDVI value is 0.15, which indicates low vegetation cover and potential vegetation stress."
